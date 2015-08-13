@@ -1,0 +1,80 @@
+# This file is deprecated as per GLEP 56 in favor of metadata.xml. Please add
+# your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+app-dicts/goldendict:epwing - Support EPWING dictionaries
+app-dicts/goldendict:lzma - Support LZMA-compressed Zim dictionaries
+app-dicts/goldendict:sound - Support libao- and ffmpeg-driven audio playback
+app-editors/vim:X - Link console vim against X11 libraries to enable title and clipboard features in xterm
+app-editors/vim:luajit - Use dev-lang/luajit instead of dev-lang/lua
+app-editors/vim:racket - Enable support for Scheme using dev-lang/racket
+app-editors/vim:vim-pager - Install vimpager and vimmanpager links
+app-emulation/vice:ethernet - Enable ethernet emulation
+app-emulation/vice:gtk3 - Enable GNOME UI with GTK3 rather than GTK2 support
+app-emulation/vice:memmap - Enable extra monitor features
+app-emulation/vice:midi - Enable MIDI support
+app-emulation/vice:pic - Disable optimized assembly code that is not PIC friendly
+app-emulation/vice:sdlui - Enable SDL UI support
+app-emulation/vice:xrandr - Enable support for the X xrandr extension
+app-misc/powerline:awesome - Install awesome (window manager) support files
+app-misc/powerline:bash - Install bash support files
+app-misc/powerline:busybox - Install BusyBox ash support files
+app-misc/powerline:dash - Install dash support files
+app-misc/powerline:extra - Install optional dependencies enabling additional segments
+app-misc/powerline:fish - Install fish support files
+app-misc/powerline:fonts - Install fonts pre-patched with Powerline symbols (not recommended)
+app-misc/powerline:man - Build and install man pages
+app-misc/powerline:mksh - Install mksh support files
+app-misc/powerline:qtile - Install qtile support files
+app-misc/powerline:rc - Install rc shell support files
+app-misc/powerline:tmux - Install tmux support files
+app-misc/powerline:vim - Install vim support files
+app-misc/powerline:zsh - Install zsh support files
+dev-util/ctags:ada - Enable Ada support
+games-emulation/dosbox-daum:alsa - Enable MIDI playback using ALSA (recommended)
+games-emulation/dosbox-daum:c++0x - Enable C++11-specific features (recommended)
+games-emulation/dosbox-daum:printer - Enable printer support using Freetype fonts
+games-engines/ags:midi - Enable MIDI music with Eric A. Welsh's GUS patch set
+games-roguelike/cataclysm-dda:clang - Build with clang++ rather than g++ (experimental!)
+games-roguelike/cataclysm-dda:lua - Enable Lua scripting support (e.g., for modding)
+games-roguelike/cataclysm-dda:ncurses - Install ncurses-based terminal executable (recommended)
+games-roguelike/cataclysm-dda:sdl - Install SDL-based X11 executable (recommended)
+games-roguelike/cataclysm-dda:sound - Enable SDL-based sound support
+games-roguelike/tome4:jit - Enable Lua JIT support (recommended)
+games-roguelike/tome4:music - Enable in-game music
+games-roguelike/tsl:allegro - Build Allegro-driven GUI
+games-roguelike/tsl:ncurses - Build ncurses-driven CLI
+media-fonts/powerline-fonts:anonymouspro - Install Powerline-patched Anonymous Pro fonts
+media-fonts/powerline-fonts:dejavusansmono - Install Powerline-patched DejaVu Sans Mono fonts
+media-fonts/powerline-fonts:droidsansmono - Install Powerline-patched Droid Sans Mono fonts
+media-fonts/powerline-fonts:inconsolata - Install Powerline-patched Inconsolata fonts
+media-fonts/powerline-fonts:inconsolatadz - Install Powerline-patched Inconsolata-dz fonts
+media-fonts/powerline-fonts:liberationmono - Install Powerline-patched Liberation Mono fonts
+media-fonts/powerline-fonts:meslo - Install Powerline-patched Meslo fonts
+media-fonts/powerline-fonts:sourcecodepro - Install Powerline-patched Source Code Pro fonts
+media-fonts/powerline-fonts:terminus_pcf - Install Powerline-patched Terminus fonts in PCF format
+media-fonts/powerline-fonts:ubuntumono - Install Powerline-patched Ubuntu Mono fonts
+media-libs/libsdl:audio - Support audio devices (strongly recommended!)
+media-libs/libsdl:feedback - Support tactile feedback (e.g., vibration) devices
+media-libs/libsdl:fusionsound - Enable FusionSound audio support
+media-libs/libsdl:gles - Enable OpenGL ES video support
+media-libs/libsdl:joystick - Support joystick devices
+media-libs/libsdl:openglhq - Enable Opengl-HQ video support
+media-libs/libsdl:ps3 - Build the PS3 video driver
+media-libs/libsdl:tslib - Enable tslib-based touchscreen device support
+media-libs/libsdl:video - Support video devices (strongly recommended!)
+media-libs/libsdl:xcursor - Enable Xcursor-based cursor theme support
+media-libs/libsdl:xinput - Enable xinput-based touchscreen and multiple input device support (recommended)
+media-libs/libsdl:xrandr - Enable XRandR-based resolution switching (recommended)
+media-libs/libsdl:xvidmode - Enable XVidMode-based resolution switching (not recommended)
+media-libs/sdl-sound:midi - Enable MIDI audio file support
+media-libs/sdl-sound:mp3 - Enable MP3 audio file support via "mpg123"
+media-libs/sdl-sound:physfs - Enable archive extraction support via physfs (recommended)
+media-libs/sdl-sound:wav - Enable WAV audio file support
+media-video/dvdstyler:deprecated - Use the old libgnomeui-2 library
+net-p2p/i2p:nls - Adds Native Language Support using GNU gettext.
+net-p2p/imule:daemon - Build headless server
+net-p2p/imule:kde - Build KDE Plasma applet
+net-p2p/imule:linkcreator - Build link creator utility
+net-p2p/imule:stats - Collect and display statistics
+net-p2p/imule:upnp - Support uPnP networking (recommended)
