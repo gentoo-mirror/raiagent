@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile configure install prepare unpack
+DEPEND=app-arch/bzip2:= dev-libs/lzo:2= >=app-text/hunspell-1.2:= media-libs/libogg:= media-libs/libvorbis:= sys-libs/zlib:= x11-libs/libX11:= x11-libs/libXtst:= x11-proto/recordproto:= >=dev-qt/qtcore-4.5:4=[exceptions,qt3support] >=dev-qt/qtgui-4.5:4=[exceptions,qt3support] >=dev-qt/qthelp-4.5:4=[exceptions] >=dev-qt/qtwebkit-4.5:4=[exceptions] !kde? ( || ( >=dev-qt/qtphonon-4.5:4=[exceptions] media-libs/phonon:= ) ) kde? ( media-libs/phonon:= ) epwing? ( dev-libs/eb:= ) lzma? ( >=app-arch/xz-utils-5.0.5:= ) tiff? ( media-libs/tiff:0= ) sound? ( media-libs/libao:= virtual/ffmpeg:= ) !app-text/goldendict virtual/pkgconfig >=dev-vcs/git-1.8.2.1
+DESCRIPTION=Feature-rich dictionary lookup program
+EAPI=5
+HOMEPAGE=http://goldendict.org
+IUSE=debug epwing lzma sound tiff kde linguas_ar_SA linguas_ay_WI linguas_be_BY linguas_be_BY@latin linguas_bg_BG linguas_cs_CZ linguas_de_DE linguas_el_GR linguas_es_AR linguas_es_BO linguas_es_ES linguas_fa_IR linguas_fr_FR linguas_it_IT linguas_ja_JP linguas_ko_KR linguas_lt_LT linguas_mk_MK linguas_nl_NL linguas_pl_PL linguas_pt_BR linguas_qt_es linguas_qt_it linguas_qt_lt linguas_qu_WI linguas_ru_RU linguas_sk_SK linguas_sq_AL linguas_sr_SR linguas_sv_SE linguas_tg_TJ linguas_tk_TM linguas_tr_TR linguas_uk_UA linguas_vi_VN linguas_zh_CN linguas_zh_TW
+LICENSE=GPL-3+
+RDEPEND=app-arch/bzip2:= dev-libs/lzo:2= >=app-text/hunspell-1.2:= media-libs/libogg:= media-libs/libvorbis:= sys-libs/zlib:= x11-libs/libX11:= x11-libs/libXtst:= x11-proto/recordproto:= >=dev-qt/qtcore-4.5:4=[exceptions,qt3support] >=dev-qt/qtgui-4.5:4=[exceptions,qt3support] >=dev-qt/qthelp-4.5:4=[exceptions] >=dev-qt/qtwebkit-4.5:4=[exceptions] !kde? ( || ( >=dev-qt/qtphonon-4.5:4=[exceptions] media-libs/phonon:= ) ) kde? ( media-libs/phonon:= ) epwing? ( dev-libs/eb:= ) lzma? ( >=app-arch/xz-utils-5.0.5:= ) tiff? ( media-libs/tiff:0= ) sound? ( media-libs/libao:= virtual/ffmpeg:= )
+SLOT=0
+_eclass_exported_funcs=src_unpack:- src_prepare:- src_configure:- src_compile:qt4-r2 src_install:-
+_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	eutils	f20548a2f7b0128068388cd2ec26708a	git-r3	b00a846f415f26e5b66e5c44c7dc87dc	l10n	714aaf78929eade946da5eaff7d2001a	multilib	3972ca401cf7dbb430df9995f5d8d580	qmake-utils	bd69cb386c63df4642cf1392b50c8d81	qt4-r2	cb2cb5856695b300266b425da70e82d8	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=5f499400d3c230fe9df48837e3dd548a
