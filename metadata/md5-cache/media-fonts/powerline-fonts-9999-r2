@@ -9,5 +9,5 @@ LICENSE=anonymouspro? ( OFL-1.1 ) dejavusansmono? ( BitstreamVera ) droidsansmon
 REQUIRED_USE=|| ( anonymouspro dejavusansmono droidsansmono inconsolata inconsolatadz liberationmono meslo sourcecodepro terminus_pcf ubuntumono )
 SLOT=0
 _eclass_exported_funcs=pkg_postrm:font pkg_postinst:font pkg_setup:font src_unpack:git-r3 src_install:-
-_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	font	cd7790315ca5b8c505e1e0513df6acce	git-r3	e6443022d06c4de81a14e017bdfcc306	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=eutils	d9bd2ddd85a58e470b49ca997e255a4c	font	cd7790315ca5b8c505e1e0513df6acce	git-r3	e6443022d06c4de81a14e017bdfcc306	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=269de6f9d0698427b84ce5c0da5ca698
