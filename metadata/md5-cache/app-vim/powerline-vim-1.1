@@ -1,0 +1,13 @@
+DEFINED_PHASES=install postinst postrm prepare
+DEPEND=|| ( >=app-editors/vim-7.2[python] >=app-editors/gvim-7.2[python] ) || ( >=app-editors/vim-7.3 >=app-editors/gvim-7.3 )
+DESCRIPTION=Vim plugin for Python-based Powerline
+EAPI=5
+HOMEPAGE=https://pypi.python.org/pypi/powerline-status
+KEYWORDS=~amd64 ~ppc ~x86 ~x86-fbsd
+LICENSE=MIT
+RDEPEND=|| ( >=app-editors/vim-7.2[python] >=app-editors/gvim-7.2[python] ) ~app-misc/powerline-1.1 || ( >=app-editors/vim-7.3 >=app-editors/gvim-7.3 )
+SLOT=0
+SRC_URI=mirror://pypi/p/powerline-status/powerline-status-1.1.tar.gz
+_eclass_exported_funcs=pkg_postrm:vim-plugin pkg_postinst:vim-plugin src_prepare:- src_install:vim-plugin
+_eclasses_=vim-doc	1b0813c9dadf2431c96854a8d46f5eaf	vim-plugin	1bbfc3364a7588372fb4c21734f0cd96
+_md5_=a1460b33132b4c41410dccac5b1862b6

@@ -1,0 +1,14 @@
+DEFINED_PHASES=configure install postinst preinst prepare
+DEPEND=>=dev-libs/crypto++-5:0= >=sys-libs/zlib-1.2.1:0= sys-devel/binutils:= virtual/libiconv:0= virtual/libintl:0= geoip? ( dev-libs/geoip:0= ) kde? ( kde-base/kdelibs:4= ) stats? ( >=media-libs/gd-2.0.26:2=[jpeg] ) upnp? ( >=net-libs/libupnp-1.6.6:0= ) X? ( >=x11-libs/wxGTK-2.8.12:2.8=[X] dev-qt/qtcore:4= dev-qt/qtgui:4= ) !X? ( >=x11-libs/wxGTK-2.8.12:2.8= ) sys-devel/gcc[cxx] sys-devel/flex
+DESCRIPTION=Free, open-source, anonymous, I2P-based, file-sharing P2P software
+EAPI=5
+HOMEPAGE=http://www.imule.i2p.rocks
+IUSE=daemon geoip kde linkcreator mmap nls stats upnp +X
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=>=dev-libs/crypto++-5:0= >=sys-libs/zlib-1.2.1:0= sys-devel/binutils:= virtual/libiconv:0= virtual/libintl:0= geoip? ( dev-libs/geoip:0= ) kde? ( kde-base/kdelibs:4= ) stats? ( >=media-libs/gd-2.0.26:2=[jpeg] ) upnp? ( >=net-libs/libupnp-1.6.6:0= ) X? ( >=x11-libs/wxGTK-2.8.12:2.8=[X] dev-qt/qtcore:4= dev-qt/qtgui:4= ) !X? ( >=x11-libs/wxGTK-2.8.12:2.8= ) net-p2p/i2p
+SLOT=0
+SRC_URI=http://www.imule.i2p.rocks/files/download.php?Fichier=iMule-2.3.2.3-src.tbz http://echelon.i2p.us/imule/nodes.dat
+_eclass_exported_funcs=pkg_preinst:- pkg_postinst:- src_prepare:- src_configure:- src_install:-
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	flag-o-matic	d270fa247153df66074f795fa42dba3e	multilib	d062ae4ba2fc40a19c11de2ad89b6616	readme.gentoo	df3fc8fdaf5a519e7d48c83e7592c95f	toolchain-funcs	d513d423d449877e49d99af3f7af7acb	user	906f3c8eb3a2350a4f1191a89baa3e46	wxwidgets	9b34ce3ca77f4e418e8fd9951c4c1cb1
+_md5_=48c00d548c4454ceefc5271fc2c5babe

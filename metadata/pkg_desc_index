@@ -1,3 +1,42 @@
+app-admin/drush 5.9: Drush is a command line shell and scripting interface for Drupal
+app-dicts/goldendict 1.5.0_rc-r1 9999-r2: Feature-rich dictionary lookup program
+app-editors/vim 7.4.591-r2: Vim, an improved vi-style text editor
+app-emulation/vice 2.4.5: The Versatile Commodore 8-bit Emulator
 app-lyx/elyxer 1.2.5: LyX to HTML converter
+app-misc/powerline 1.0 1.1 1.2 1.3 1.3.1 2.0 2.1 2.1.4 2.2 2.3 2.4 9999-r20: Python-based statusline/prompt utility
+app-text/labelnation 1.218: Command-line label-printing program
+app-vim/powerline-vim 1.0 1.1 1.2 1.3 1.3.1 2.0 2.1 2.1.4 2.2 2.3 2.4 9999: Vim plugin for Python-based Powerline
 app-wine/python-winbuilder 0.1.1: MinGW-based build environment for Python projects
+dev-java/jargs 1.0: Java classes that implement parsing of command-line options
+dev-java/yuicompressor 2.4.8: JavaScript and CSS compressor
+dev-libs/libvterm 9999-r2: Abstract library implementation of a VT220/xterm/ECMA-48 terminal emulator
+dev-python/dropbox-sdk 9999: Python SDK for the Dropbox API
+dev-python/pyinstaller 3.0 9999-r1: Program converting Python programs into stand-alone executables
+dev-python/pymsgbox 1.0.3: Cross-platform, pure-Python, JavaScript-like message boxes
+dev-python/ruamel_std_argparse 0.4.1: Enhancements to argparse
+dev-python/ruamel_yaml 0.4: YAML parser/emitter that supports roundtrip comment preservation
+dev-python/voluptuous 0.8.7-r1: Python data validation library
+dev-python/yamale 1.5.3: Python YAML schema validator
+dev-util/ctags 9999: Exuberant Ctags creates tags files for code browsing in editors
+dev-vcs/git-remote-dropbox 0.0.3: Transparent bridge between Git and Dropbox
+dev-vcs/git-remote-hg 9999: Official Mercurial bridge from the Git project
+games-emulation/dosbox-daum 20130725: DOS emulator (unofficial SVN-based Daum patchset maintained by ykhwong)
+games-engines/ags 9999: Adventure Game Studio (AGS) runtime engine
 games-ftl/grognaks_mod_manager 9999: Grognak's Mod Manager, a "Faster than Light" (FTL) mod manager
+games-roguelike/cataclysm-dda 0.4 0.5 0.9 0.9a-r1 0.9c-r3 9999-r5: Roguelike set in a post-apocalyptic world
+games-roguelike/tome4 1.0.4-r2: Topdown tactical RPG roguelike game and game engine
+games-roguelike/tsl 0.40: The Slimy Lichmummy, an adventure game similar in style to the classic Rogue
+games-roguelike/unreal-world 3.16: Fantasy roguelike set in the far north during the late Iron-Age
+games-util/ips-pl 0.01: Perl script which is designed to apply an IPS patch to a ROM
+media-fonts/powerline-fonts 9999-r2: Monospaced fonts pre-patched with Powerline symbols
+media-fonts/powerline-symbols 9999: OpenType Unicode font containing only Powerline-specific symbols.
+media-libs/libsdl 1.2.9999: Simple Direct Media Layer
+media-libs/mt32emu 1.4.0-r1: Software synthesiser emulating pre-GM MIDI devices
+media-libs/mt32emu-alsa 1.4.0: MT-32 ALSA MIDI daemon
+media-libs/openglide 9999-r1: Glide to OpenGL wrapper
+media-libs/sdl-sound 9999-r1: A library that handles the decoding of sound file formats
+media-video/devede 3.23.0: Program to create video CDs and DVDs, suitable to be played in home DVD players.
+media-video/dvdstyler 2.4_beta2 2.5_beta1 2.8: A cross-platform free DVD authoring application
+net-p2p/i2p 0.9.20 0.9.21 0.9.22-r1: The Invisible Internet Project
+net-p2p/imule 2.3.2.3-r3: Free, open-source, anonymous, I2P-based, file-sharing P2P software
+sys-power/phc-k8 0.4.5 0.4.6_beta1 0.4.6: Processor Hardware Control for AMD K8 CPUs
