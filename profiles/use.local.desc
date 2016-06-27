@@ -58,6 +58,7 @@ media-fonts/powerline-fonts:meslo - Install Powerline-patched Meslo fonts
 media-fonts/powerline-fonts:sourcecodepro - Install Powerline-patched Source Code Pro fonts
 media-fonts/powerline-fonts:terminus_pcf - Install Powerline-patched Terminus fonts in PCF format
 media-fonts/powerline-fonts:ubuntumono - Install Powerline-patched Ubuntu Mono fonts
+media-gfx/hakuneko:clang - Build with clang++ rather than g++
 media-libs/libsdl:audio - Support audio devices (strongly recommended!)
 media-libs/libsdl:feedback - Support tactile feedback (e.g., vibration) devices
 media-libs/libsdl:fusionsound - Enable FusionSound audio support
