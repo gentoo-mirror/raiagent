@@ -9,5 +9,5 @@ RDEPEND=|| ( >=app-editors/vim-7.2[python] >=app-editors/gvim-7.2[python] ) ~app
 SLOT=0
 SRC_URI=mirror://pypi/p/powerline-status/powerline-status-1.0.tar.gz
 _eclass_exported_funcs=pkg_postrm:vim-plugin pkg_postinst:vim-plugin src_prepare:- src_install:vim-plugin
-_eclasses_=vim-doc	1b0813c9dadf2431c96854a8d46f5eaf	vim-plugin	1bbfc3364a7588372fb4c21734f0cd96
+_eclasses_=vim-doc	1b0813c9dadf2431c96854a8d46f5eaf	vim-plugin	d03d134cdf2c29ad924139c1c76b9043
 _md5_=a1460b33132b4c41410dccac5b1862b6
