@@ -72,6 +72,14 @@ media-libs/libsdl:xcursor - Enable Xcursor-based cursor theme support
 media-libs/libsdl:xinput - Enable xinput-based touchscreen and multiple input device support (recommended)
 media-libs/libsdl:xrandr - Enable XRandR-based resolution switching (recommended)
 media-libs/libsdl:xvidmode - Enable XVidMode-based resolution switching (not recommended)
+media-libs/munt:alsa - Build the Qt-driven ALSA driver
+media-libs/munt:libsamplerate - Resample audio via Secret Rabbit Code (SRC)
+media-libs/munt:libsoxr - Resample audio via SoX Resampler (SoXR) (recommended)
+media-libs/munt:portaudio - Build the Qt-driven PortAudio driver
+media-libs/munt:pulseaudio - Build the Qt-driven PulseAudio driver
+media-libs/munt:qt4 - Build the Qt4-based driver
+media-libs/munt:qt5 - Build the Qt5-based driver (recommended)
+media-libs/munt:smf2wav - Build the "smf2wav" conversion utility
 media-libs/sdl-sound:midi - Enable MIDI audio file support
 media-libs/sdl-sound:mp3 - Enable MP3 audio file support via "mpg123"
 media-libs/sdl-sound:physfs - Enable archive extraction support via physfs (recommended)
