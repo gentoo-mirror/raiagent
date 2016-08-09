@@ -23,7 +23,7 @@ dev-vcs/git-remote-hg 9999: Official Mercurial bridge from the Git project
 games-emulation/dosbox-daum 20130725: DOS emulator (unofficial SVN-based Daum patchset maintained by ykhwong)
 games-engines/ags 9999: Adventure Game Studio (AGS) runtime engine
 games-ftl/grognaks_mod_manager 9999: Grognak's Mod Manager, a "Faster than Light" (FTL) mod manager
-games-roguelike/cataclysm-dda 0.4 0.5 0.9 0.9a-r1 0.9c-r3 9999-r5: Roguelike set in a post-apocalyptic world
+games-roguelike/cataclysm-dda 0.4 0.5 0.9 0.9a-r1 0.9c-r4 9999-r6: Roguelike set in a post-apocalyptic world
 games-roguelike/tome4 1.0.4-r2: Topdown tactical RPG roguelike game and game engine
 games-roguelike/tsl 0.40: The Slimy Lichmummy, an adventure game similar in style to the classic Rogue
 games-roguelike/unreal-world 3.16: Fantasy roguelike set in the far north during the late Iron-Age
