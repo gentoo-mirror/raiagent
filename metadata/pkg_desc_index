@@ -16,6 +16,7 @@ dev-python/pyinstaller 3.0 9999-r1: Program converting Python programs into stan
 dev-python/pymsgbox 1.0.3: Cross-platform, pure-Python, JavaScript-like message boxes
 dev-python/ruamel_std_argparse 0.4.1: Enhancements to argparse
 dev-python/ruamel_yaml 0.4: YAML parser/emitter that supports roundtrip comment preservation
+dev-python/snakeviz 0.4.1 9999: Web-based viewer for Python profiler output
 dev-python/voluptuous 0.8.7-r1: Python data validation library
 dev-python/yamale 1.5.3: Python YAML schema validator
 dev-util/ctags 9999: Exuberant Ctags creates tags files for code browsing in editors
