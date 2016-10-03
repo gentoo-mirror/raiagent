@@ -11,4 +11,4 @@ REQUIRED_USE=lua? ( sdl ) luajit? ( lua ) sound? ( sdl ) || ( ncurses sdl )
 SLOT=0
 SRC_URI=https://github.com/CleverRaven/Cataclysm-DDA/archive/0.C.tar.gz -> cataclysm-dda-0.9c.tar.gz
 _eclass_exported_funcs=pkg_preinst:- pkg_postinst:- src_prepare:- src_compile:- src_test:- src_install:-
-_md5_=709374a496191879c5c94d7aa97b8299
+_md5_=4b1fb96d8ef1167f97380d066fca849d
