@@ -1,4 +1,4 @@
-DEFINED_PHASES=compile install postinst preinst prepare test
+DEFINED_PHASES=compile install prepare test
 DEPEND=app-arch/bzip2:= sys-libs/glibc:2.2= sys-libs/zlib:= lua? ( >=dev-lang/lua-5.1:0= ) luajit? ( dev-lang/luajit:2= ) ncurses? ( >=sys-libs/ncurses-6.0:0= ) nls? ( sys-devel/gettext:0=[nls] ) sdl? ( media-libs/libsdl2:0= media-libs/sdl2-ttf:0= media-libs/sdl2-image:0=[jpeg,png] media-libs/freetype:2= ) sound? ( media-libs/sdl2-mixer:0= ) clang? ( sys-devel/clang ) !clang? ( sys-devel/gcc[cxx] )
 DESCRIPTION=Roguelike set in a post-apocalyptic world
 EAPI=6
@@ -10,5 +10,5 @@ RDEPEND=app-arch/bzip2:= sys-libs/glibc:2.2= sys-libs/zlib:= lua? ( >=dev-lang/l
 REQUIRED_USE=lua? ( sdl ) luajit? ( lua ) sound? ( sdl ) || ( ncurses sdl )
 SLOT=0
 SRC_URI=https://github.com/CleverRaven/Cataclysm-DDA/archive/0.C.tar.gz -> cataclysm-dda-0.9c.tar.gz
-_eclass_exported_funcs=pkg_preinst:- pkg_postinst:- src_prepare:- src_compile:- src_test:- src_install:-
-_md5_=dda4e15d40e92be50637327f42b7c41c
+_eclass_exported_funcs=src_prepare:- src_compile:- src_test:- src_install:-
+_md5_=b63bc75de1eefd2c2aa071a22eec8fa2
