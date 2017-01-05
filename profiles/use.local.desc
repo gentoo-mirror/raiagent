@@ -33,6 +33,7 @@ app-misc/powerline:zsh - Install zsh support files
 dev-python/pyinstaller:clang - Build with clang rather than gcc (experimental!)
 dev-python/pyinstaller:debug - Enable GDB-based debugging support
 dev-python/pyinstaller:leak-detector - Enable Boehm GC-based memory leak detection
+dev-python/twine:keyring - Cache PyPI passwords to the system keyring
 dev-util/ctags:ada - Enable Ada support
 games-emulation/dosbox-daum:alsa - Enable MIDI playback using ALSA (recommended)
 games-emulation/dosbox-daum:c++0x - Enable C++11-specific features (recommended)
