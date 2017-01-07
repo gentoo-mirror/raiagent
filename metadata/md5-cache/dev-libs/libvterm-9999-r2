@@ -8,5 +8,5 @@ LICENSE=MIT
 RDEPEND=!dev-libs/libvterm-neovim
 SLOT=0
 _eclass_exported_funcs=src_unpack:bzr src_prepare:- src_compile:- src_test:- src_install:-
-_eclasses_=bzr	745bed5705ae699c707ba26ca9e8929a	eutils	b83a2420b796f7c6eff682679d08fe25	flag-o-matic	7366202dd55cb8f018f5d450d54e7749	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
+_eclasses_=bzr	745bed5705ae699c707ba26ca9e8929a	eutils	017377e73405d964cd0137088cddb9c3	flag-o-matic	7366202dd55cb8f018f5d450d54e7749	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
 _md5_=54d9f1941aa00be0022533d2e9163a4a
