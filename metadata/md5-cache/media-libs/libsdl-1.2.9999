@@ -9,5 +9,5 @@ LICENSE=LGPL-2.1
 RDEPEND=audio? ( >=media-libs/audiofile-0.1.9 ) alsa? ( media-libs/alsa-lib ) nas? ( media-libs/nas x11-libs/libXt x11-libs/libXext x11-libs/libX11 ) X? ( x11-libs/libXt x11-libs/libXext x11-libs/libX11 x11-libs/libXrandr ) directfb? ( >=dev-libs/DirectFB-0.9.19 ) ggi? ( >=media-libs/libggi-2.0_beta3 ) svga? ( >=media-libs/svgalib-1.4.2 ) aalib? ( media-libs/aalib ) libcaca? ( >=media-libs/libcaca-0.9-r1 ) opengl? ( virtual/opengl virtual/glu ) ppc64? ( ps3? ( sys-libs/libspe2 ) ) tslib? ( x11-libs/tslib ) pulseaudio? ( media-sound/pulseaudio )
 SLOT=0
 _eclass_exported_funcs=pkg_setup:- src_unpack:mercurial src_prepare:- src_configure:- src_install:-
-_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	ea170b525f6a38a006be05c9d9429f13	flag-o-matic	f3d2dfb12521ff699df43be5d9a51dc4	libtool	4890219c51da247200223277f993e054	mercurial	66da6d1ccacd123e28d2c64821052a9a	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	ea170b525f6a38a006be05c9d9429f13	flag-o-matic	35067884fbff37bc0c8e7421c5315558	libtool	4890219c51da247200223277f993e054	mercurial	66da6d1ccacd123e28d2c64821052a9a	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
 _md5_=a91e3362f4fe6f68e65f93929e39b621
