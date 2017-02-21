@@ -8,5 +8,5 @@ LICENSE=LGPL-2.1
 RDEPEND=>=media-libs/libsdl-1.2 flac? ( media-libs/flac ) mikmod? ( >=media-libs/libmikmod-3.1.9 ) modplug? ( media-libs/libmodplug ) mp3? ( media-sound/mpg123 ) physfs? ( dev-games/physfs ) speex? ( media-libs/speex media-libs/libogg ) vorbis? ( >=media-libs/libvorbis-1.0_beta4 )
 SLOT=0
 _eclass_exported_funcs=src_unpack:mercurial src_prepare:- src_configure:- src_install:-
-_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	ea170b525f6a38a006be05c9d9429f13	libtool	4890219c51da247200223277f993e054	mercurial	66da6d1ccacd123e28d2c64821052a9a	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	ea170b525f6a38a006be05c9d9429f13	libtool	84763589a795fb127b537cac01e5359f	mercurial	66da6d1ccacd123e28d2c64821052a9a	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
 _md5_=315d208042f7dc72992e62864f10c712
