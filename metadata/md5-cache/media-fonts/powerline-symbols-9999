@@ -8,5 +8,5 @@ KEYWORDS=~amd64 ~arm ~ppc ~ppc64 ~x86 ~x86-fbsd
 LICENSE=MIT
 SLOT=0
 _eclass_exported_funcs=pkg_postrm:font pkg_postinst:font pkg_setup:font src_unpack:git-r3 src_install:font
-_eclasses_=eutils	ea170b525f6a38a006be05c9d9429f13	font	cd7790315ca5b8c505e1e0513df6acce	git-r3	6efc2d7de07a77bf72c7207b48d0e123	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
+_eclasses_=eutils	708f85bc1bf00876604e223fb56e062a	font	cd7790315ca5b8c505e1e0513df6acce	git-r3	6efc2d7de07a77bf72c7207b48d0e123	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
 _md5_=f74d23b8ffbac5e4db3a222cc2409d53
