@@ -1,5 +1,5 @@
 DEFINED_PHASES=compile configure install postinst prepare setup test
-DEPEND=>=dev-qt/qtcore-4.6.0:4= >=dev-qt/qtgui-4.6.0:4= >=dev-qt/qtmultimedia-4.6.0:4= alsa? ( media-libs/alsa-lib:= ) libsoxr? ( media-libs/soxr:= ) libsamplerate? ( media-libs/libsamplerate:= ) pulseaudio? ( media-sound/pulseaudio:= ) sys-devel/gcc[cxx] sys-devel/make >=dev-util/cmake-3.6.3
+DEPEND=>=dev-qt/qtcore-4.6.0:4= >=dev-qt/qtgui-4.6.0:4= >=dev-qt/qtmultimedia-4.6.0:4= alsa? ( media-libs/alsa-lib:= ) libsoxr? ( media-libs/soxr:= ) libsamplerate? ( media-libs/libsamplerate:= ) pulseaudio? ( media-sound/pulseaudio:= ) sys-devel/gcc[cxx] sys-devel/make >=dev-util/cmake-3.7.2
 DESCRIPTION=Software synthesiser emulating pre-GM MIDI (e.g., Roland MT-32)
 EAPI=6
 HOMEPAGE=http://munt.sourceforge.net
@@ -11,5 +11,5 @@ REQUIRED_USE=libsamplerate? ( !libsoxr ) libsoxr? ( !libsamplerate ) || ( alsa p
 SLOT=0
 SRC_URI=mirror://sourceforge/munt/1.5.0/munt-1.5.0.tar.gz
 _eclass_exported_funcs=pkg_postinst:- pkg_setup:- src_prepare:- src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:-
-_eclasses_=cmake-utils	dd1d263f83f0791bd433b134f40db39b	eutils	3c847a0129fed780bd709b98e426f89c	flag-o-matic	61cad4fb5d800b29d484b27cb033f59b	multilib	0236be304ee52e7f179ed2f337075515	multiprocessing	284a473719153462f3e974d86c8cb81c	readme.gentoo-r1	6f03e110529650f57fc7d1fb908b8986	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	versionator	c80ccf29e90adea7c5cae94b42eb76d0
+_eclasses_=cmake-utils	a69f3a404abc4ade0a99e523f51b989d	eutils	3c847a0129fed780bd709b98e426f89c	flag-o-matic	61cad4fb5d800b29d484b27cb033f59b	multilib	0236be304ee52e7f179ed2f337075515	multiprocessing	284a473719153462f3e974d86c8cb81c	readme.gentoo-r1	6f03e110529650f57fc7d1fb908b8986	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	versionator	c80ccf29e90adea7c5cae94b42eb76d0
 _md5_=1a56b3ce6c8d86a78064e0217e2bca0d
