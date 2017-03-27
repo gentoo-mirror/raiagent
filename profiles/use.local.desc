@@ -88,7 +88,7 @@ media-sound/munt:pulseaudio - Build Qt-based PulseAudio driver
 media-sound/munt:qt4 - Build Qt 4 driver
 media-sound/munt:qt5 - Build Qt 5 driver (recommended)
 media-sound/munt:smf2wav - Build "smf2wav" conversion utility
-media-sound/vgmplay:opl - Support obsolete OPL sound chip hardware (AdLib, SoundBlaster)
+media-sound/vgmplay:opl - Enable playback on obsolete OPL hardware (AdLib, SoundBlaster)
 media-video/dvdstyler:deprecated - Use the old libgnomeui-2 library
 net-p2p/i2p:nls - Adds Native Language Support using GNU gettext.
 net-p2p/imule:daemon - Build headless server

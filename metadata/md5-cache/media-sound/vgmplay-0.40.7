@@ -3,12 +3,12 @@ DEPEND=sys-libs/zlib:= virtual/libc ao? ( media-libs/libao:= )
 DESCRIPTION=Video game music (VGM) file command-line player
 EAPI=6
 HOMEPAGE=http://vgmrips.net/forum/viewtopic.php?t=112
-IUSE=ao debug opl
+IUSE=alsa ao debug opl pulseaudio
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
-RDEPEND=sys-libs/zlib:= virtual/libc ao? ( media-libs/libao:= )
+RDEPEND=sys-libs/zlib:= virtual/libc ao? ( media-libs/libao:= ) alsa? ( media-libs/alsa-oss ) pulseaudio? ( media-sound/pulseaudio[oss] )
 SLOT=0
 SRC_URI=https://github.com/vgmrips/vgmplay/archive/0.40.7.tar.gz
 _eclass_exported_funcs=pkg_postinst:- src_prepare:- src_compile:- src_install:-
 _eclasses_=readme.gentoo-r1	6f03e110529650f57fc7d1fb908b8986
-_md5_=706837215f0c3353cfe559056f687b3c
+_md5_=d4e05368d651904417535cc41e321e63
