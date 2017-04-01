@@ -33,6 +33,27 @@ app-misc/powerline:zsh - Install zsh support files
 dev-python/pyinstaller:clang - Build with clang rather than gcc (experimental!)
 dev-python/pyinstaller:debug - Enable GDB-based debugging support
 dev-python/pyinstaller:leak-detector - Enable Boehm GC-based memory leak detection
+dev-python/pyside:concurrent - Build Qt5Concurrent module
+dev-python/pyside:declarative - Build Qt5Declarative module
+dev-python/pyside:designer - Build Qt5Designer and Qt5UiTools modules
+dev-python/pyside:gui - Build Qt5Gui and Qt5Test modules
+dev-python/pyside:help - Build Qt5Help module
+dev-python/pyside:multimedia - Build Qt5Multimedia module
+dev-python/pyside:network - Build Qt5Network module
+dev-python/pyside:opengl - Build Qt5OpenGL module
+dev-python/pyside:printsupport - Build Qt5PrintSupport module
+dev-python/pyside:script - Build Qt5Script module
+dev-python/pyside:scripttools - Build Qt5ScriptTools module
+dev-python/pyside:sql - Build Qt5Sql module
+dev-python/pyside:svg - Build Qt5Svg module
+dev-python/pyside:testlib - Build Qt5TestLib module
+dev-python/pyside:webchannel - Build Qt5WebChannel module
+dev-python/pyside:webengine - Build Qt5WebEngine module
+dev-python/pyside:webkit - Build Qt5WebKit and Qt5WebKitWidgets modules
+dev-python/pyside:websockets - Build Qt5WebSockets module
+dev-python/pyside:widgets - Build Qt5Widgets module
+dev-python/pyside:x11extras - Build Qt5X11Extras module
+dev-python/pyside:xmlpatterns - Build Qt5XmlPatterns module
 dev-python/twine:keyring - Cache PyPI passwords to the system keyring
 dev-util/ctags:ada - Enable Ada support
 games-emulation/dosbox-daum:alsa - Enable MIDI playback using ALSA (recommended)
