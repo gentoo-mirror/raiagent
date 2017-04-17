@@ -19,7 +19,7 @@ dev-python/pymsgbox 1.0.3: Cross-platform, pure-Python, JavaScript-like message 
 dev-python/pyside 9999: Python bindings for the Qt framework
 dev-python/ruamel_std_argparse 0.4.1: Enhancements to argparse
 dev-python/ruamel_yaml 0.4: YAML parser/emitter that supports roundtrip comment preservation
-dev-python/shiboken 9999: A tool for creating Python bindings for C++ libraries
+dev-python/shiboken 9999: Tool for creating Python bindings for C++ libraries
 dev-python/snakeviz 0.4.1 9999: Web-based viewer for Python profiler output
 dev-python/twine 1.8.1 9999: Collection of utilities for interacting with PyPI
 dev-python/voluptuous 0.8.7-r1: Python data validation library
