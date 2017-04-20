@@ -34,9 +34,9 @@ dev-python/pyinstaller:clang - Build with clang rather than gcc (experimental!)
 dev-python/pyinstaller:debug - Enable GDB-based debugging support
 dev-python/pyinstaller:leak-detector - Enable Boehm GC-based memory leak detection
 dev-python/pyside:concurrent - Build QtConcurrent module
-dev-python/pyside:declarative - Build QtDeclarative module
+dev-python/pyside:declarative - Build QtQml, QtQuick, and QtQuickWidgets modules
 dev-python/pyside:designer - Build QtDesigner and QtUiTools modules
-dev-python/pyside:gui - Build QtGui and QtTest modules
+dev-python/pyside:gui - Build QtGui module
 dev-python/pyside:help - Build QtHelp module
 dev-python/pyside:multimedia - Build QtMultimedia module
 dev-python/pyside:network - Build QtNetwork module
@@ -46,9 +46,9 @@ dev-python/pyside:script - Build QtScript module
 dev-python/pyside:scripttools - Build QtScriptTools module
 dev-python/pyside:sql - Build QtSql module
 dev-python/pyside:svg - Build QtSvg module
-dev-python/pyside:testlib - Build QtTestLib module
+dev-python/pyside:testlib - Build QtTest module
 dev-python/pyside:webchannel - Build QtWebChannel module
-dev-python/pyside:webengine - Build QtWebEngine module
+dev-python/pyside:webengine - Build QtWebEngine and QtWebEngineWidgets modules
 dev-python/pyside:webkit - Build QtWebKit and QtWebKitWidgets modules
 dev-python/pyside:websockets - Build QtWebSockets module
 dev-python/pyside:widgets - Build QtWidgets module
