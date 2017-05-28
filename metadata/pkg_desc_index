@@ -45,6 +45,6 @@ media-sound/vgmplay 0.40.7 9999: Video game music (VGM) file command-line player
 media-video/dvdstyler 2.4_beta2 2.5_beta1 2.8: A cross-platform free DVD authoring application
 net-p2p/imule 2.3.2.3-r3: Free, open-source, anonymous, I2P-based, file-sharing P2P software
 net-vpn/i2p 0.9.20 0.9.21 0.9.22-r1: The Invisible Internet Project
-net-vpn/zeronet 0.5.4 9999: Decentralized websites using Bitcoin crypto and BitTorrent network
+net-vpn/zeronet 0.5.4 0.5.5 9999: Decentralized websites using Bitcoin crypto and BitTorrent network
 sci-biology/betse 0.4.1 0.5.0 9999: Bioelectric Tissue Simulation Engine (BETSE)
 sys-power/phc-k8 0.4.5 0.4.6_beta1 0.4.6: Processor Hardware Control for AMD K8 CPUs

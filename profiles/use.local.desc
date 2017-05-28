@@ -96,6 +96,8 @@ net-p2p/imule:linkcreator - Build link creator utility
 net-p2p/imule:stats - Collect and display statistics
 net-p2p/imule:upnp - Support uPnP networking (recommended)
 net-vpn/i2p:nls - Adds Native Language Support using GNU gettext.
+net-vpn/zeronet:debug - Enable optional "--debug" functionality recommended for site creation (e.g., codebase autoreloading, CoffeeScript compiling, interactive debugging)
+net-vpn/zeronet:tor - Enable Tor-based anonymization
 sci-biology/betse:ffmpeg - Support FFmpeg- or Libav-based animation encoding
 sci-biology/betse:graph - Support gene regulatory and biochemical reaction networks
 sci-biology/betse:profile - Support space and time usage profiling
