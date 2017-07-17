@@ -10,4 +10,4 @@ REQUIRED_USE=lua? ( sdl ) luajit? ( lua ) sound? ( sdl ) || ( ncurses sdl )
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_prepare:- src_compile:- src_test:- src_install:-
 _eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390
-_md5_=548c4a16a2f8bbe171349cef1b9b6d19
+_md5_=cc57742cd8324aeb8c09b4687691d0c2
