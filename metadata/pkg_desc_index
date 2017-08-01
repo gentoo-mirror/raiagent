@@ -6,7 +6,7 @@ app-wine/python-winbuilder 0.1.1: A cross-platform free DVD authoring applicatio
 dev-java/jargs 1.0: Java classes that implement parsing of command-line options
 dev-java/yuicompressor 2.4.8: JavaScript and CSS compressor
 dev-libs/libvterm 9999-r2: Abstract library implementation of a VT220/xterm/ECMA-48 terminal emulator
-dev-python/dropbox-sdk 9999: Python SDK for the Dropbox API
+dev-python/dropbox-sdk 8.0.0 9999: Python SDK for Dropbox API v2
 dev-python/instant-rst 0.9.2.2 9999: Lightweight web server for previewing reStructuredText documents
 dev-python/pprofile 1.9.2 9999: Line-granularity thread-aware pure-Python profiler
 dev-python/pyinstaller 3.0 9999-r1: Program converting Python programs into stand-alone executables
