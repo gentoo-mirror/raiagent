@@ -21,10 +21,8 @@ dev-python/pyinstaller:debug - Enable GDB-based debugging support
 dev-python/pyinstaller:leak-detector - Enable Boehm GC-based memory leak detection
 dev-python/twine:keyring - Cache PyPI passwords to the system keyring
 dev-util/ctags:ada - Enable Ada support
-games-emulation/dosbox-daum:alsa - Enable MIDI playback using ALSA (recommended)
-games-emulation/dosbox-daum:c++0x - Enable C++11-specific features (recommended)
-games-emulation/dosbox-daum:printer - Enable printer support using Freetype fonts
-games-engines/ags:midi - Enable MIDI music with Eric A. Welsh's GUS patch set
+games-engines/ags:midi - Enable MIDI music via Eric A. Welsh's GUS patch set (recommended)
+games-engines/ags:tremor - Decode Ogg Vorbis audio with a low-quality fixed-point decoder
 games-roguelike/cataclysm-dda:clang - Build with clang++ rather than g++ (experimental!)
 games-roguelike/cataclysm-dda:lua - Enable Lua scripting support (e.g., for modding)
 games-roguelike/cataclysm-dda:luajit - Use dev-lang/luajit instead of dev-lang/lua
@@ -81,7 +79,6 @@ net-p2p/imule:kde - Build KDE Plasma applet
 net-p2p/imule:linkcreator - Build link creator utility
 net-p2p/imule:stats - Collect and display statistics
 net-p2p/imule:upnp - Support uPnP networking (recommended)
-net-vpn/i2p:nls - Adds Native Language Support using GNU gettext.
 net-vpn/zeronet:debug - Enable optional "--debug" functionality recommended for site creation (e.g., codebase autoreloading, CoffeeScript compiling, interactive debugging)
 net-vpn/zeronet:tor - Enable Tor-based anonymization
 sci-biology/betse:ffmpeg - Support FFmpeg- or Libav-based animation encoding
