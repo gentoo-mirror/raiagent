@@ -63,8 +63,8 @@ REQUIRED_USE="${PYTHON_REQUIRED_USE}"
 #
 # * The top-level "requirements.txt" file.
 # * The "src/lib" directory, containing all bundled dependencies.
-# * The "src/Debug/DebugMedia.py" file, dynamically forking the optional
-#   "dev-lang/coffee-script" dependency when merging Coffee- to JavaScript..
+# * The "src/Debug/DebugMedia.py" file, dynamically running the optional
+#   "dev-lang/coffee-script" dependency when merging Coffee- to JavaScript.
 # * The "src/Debug/DebugReloader.py" file, dynamically importing the optional
 #   "dev-python/fs" dependency when passed the "--debug" option.
 # * The "src/Ui/UiServer.py" file, dynamically importing the optional
@@ -124,7 +124,8 @@ src_prepare() {
 	# If debugging is disabled, reduce ZeroNet's default logfile logging level
 	# of "DEBUG" to "INFO" to avoid consuming all available disk space.
 	if ! use debug; then
-		sed -i -e '/\blevel=logging.DEBUG\b/ s~\bDEBUG\b~INFO~' src/main.py
+		sed -i -e '/\blevel=logging.DEBUG\b/ s~\bDEBUG\b~INFO~' src/main.py ||
+			die '"sed" failed.'
 	fi
 }
 
