@@ -15,7 +15,7 @@ dev-python/snakeviz 0.4.1 9999: Web-based viewer for Python profiler output
 dev-python/twine 1.8.1 9999: Collection of utilities for interacting with PyPI
 dev-python/voluptuous 0.8.7-r1: Python data validation library
 dev-python/yamale 1.5.3: Python YAML schema validator
-dev-util/ctags 9999: Exuberant Ctags creates tags files for code browsing in editors
+dev-util/ctags 99999999: Universal Ctags: a maintained ctags implementation
 dev-vcs/git-remote-dropbox 0.0.3: Transparent bridge between Git and Dropbox
 dev-vcs/git-remote-hg 9999: Official Mercurial bridge from the Git project
 games-engines/ags 3.4.0.16 9999: Adventure Game Studio (AGS) runtime engine

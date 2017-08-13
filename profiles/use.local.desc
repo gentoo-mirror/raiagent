@@ -20,7 +20,10 @@ dev-python/pyinstaller:clang - Build with clang rather than gcc (experimental!)
 dev-python/pyinstaller:debug - Enable GDB-based debugging support
 dev-python/pyinstaller:leak-detector - Enable Boehm GC-based memory leak detection
 dev-python/twine:keyring - Cache PyPI passwords to the system keyring
-dev-util/ctags:ada - Enable Ada support
+dev-util/ctags:json - Support JSON parsing
+dev-util/ctags:seccomp - Support security-enhanced sandbox submode
+dev-util/ctags:xml - Support XML parsing
+dev-util/ctags:yaml - Support YAML parsing
 games-engines/ags:midi - Enable MIDI music via Eric A. Welsh's GUS patch set (recommended)
 games-engines/ags:tremor - Decode Ogg Vorbis audio with a low-quality fixed-point decoder
 games-roguelike/cataclysm-dda:clang - Build with clang++ rather than g++ (experimental!)
