@@ -16,9 +16,6 @@ app-misc/powerline:rc - Install rc shell support files
 app-misc/powerline:tmux - Install tmux support files
 app-misc/powerline:vim - Install vim support files
 app-misc/powerline:zsh - Install zsh support files
-dev-python/pyinstaller:clang - Build with clang rather than gcc (experimental!)
-dev-python/pyinstaller:debug - Enable GDB-based debugging support
-dev-python/pyinstaller:leak-detector - Enable Boehm GC-based memory leak detection
 dev-python/twine:keyring - Cache PyPI passwords to the system keyring
 dev-util/ctags:json - Support JSON parsing
 dev-util/ctags:seccomp - Support security-enhanced sandbox submode
@@ -33,8 +30,6 @@ games-roguelike/cataclysm-dda:ncurses - Install ncurses-based terminal executabl
 games-roguelike/cataclysm-dda:sdl - Install SDL-based X11 executable (recommended)
 games-roguelike/cataclysm-dda:sound - Enable SDL-based sound support
 games-roguelike/cataclysm-dda:xdg - Store saves and settings in $XDG_CONFIG_HOME/cataclysm-dda if enabled or ~/.cataclysm-dda otherwise
-games-roguelike/tome4:jit - Enable Lua JIT support (recommended)
-games-roguelike/tome4:music - Enable in-game music
 games-roguelike/tsl:allegro - Build Allegro-driven GUI
 games-roguelike/tsl:ncurses - Build ncurses-driven CLI
 media-fonts/powerline-fonts:anonymouspro - Install Powerline-patched Anonymous Pro fonts
@@ -76,7 +71,6 @@ media-sound/munt:qt4 - Build Qt 4 driver
 media-sound/munt:qt5 - Build Qt 5 driver (recommended)
 media-sound/munt:smf2wav - Build "smf2wav" conversion utility
 media-sound/vgmplay:opl - Enable playback on obsolete OPL hardware (AdLib, SoundBlaster)
-media-video/dvdstyler:deprecated - Use the old libgnomeui-2 library
 net-p2p/imule:daemon - Build headless server
 net-p2p/imule:kde - Build KDE Plasma applet
 net-p2p/imule:linkcreator - Build link creator utility
