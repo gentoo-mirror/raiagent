@@ -17,6 +17,7 @@ app-misc/powerline:tmux - Install tmux support files
 app-misc/powerline:vim - Install vim support files
 app-misc/powerline:zsh - Install zsh support files
 dev-python/twine:keyring - Cache PyPI passwords to the system keyring
+dev-python/yamale:ruamel - Enable "ruamel.yaml"-based YAML 1.2 support
 dev-util/ctags:json - Support JSON parsing
 dev-util/ctags:seccomp - Support security-enhanced sandbox submode
 dev-util/ctags:xml - Support XML parsing
