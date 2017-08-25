@@ -9,5 +9,5 @@ RDEPEND=app-arch/bzip2 sys-libs/glibc sys-libs/zlib lua? ( >=dev-lang/lua-5.1:0 
 REQUIRED_USE=lua? ( sdl ) luajit? ( lua ) sound? ( sdl ) || ( ncurses sdl )
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_prepare:- src_compile:- src_test:- src_install:-
-_eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390
+_eclasses_=git-r3	78651c07ca1c1373bf81545d39eb9769
 _md5_=85c2a6b882f1fe5149efc8c8cf71db4a
