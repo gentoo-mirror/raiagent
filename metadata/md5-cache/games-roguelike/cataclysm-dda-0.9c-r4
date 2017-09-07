@@ -10,5 +10,4 @@ RDEPEND=app-arch/bzip2 sys-libs/glibc sys-libs/zlib lua? ( >=dev-lang/lua-5.1:0 
 REQUIRED_USE=lua? ( sdl ) luajit? ( lua ) sound? ( sdl ) || ( ncurses sdl )
 SLOT=0
 SRC_URI=https://github.com/CleverRaven/Cataclysm-DDA/archive/0.C.tar.gz -> cataclysm-dda-0.9c.tar.gz
-_eclass_exported_funcs=src_prepare:- src_compile:- src_test:- src_install:-
 _md5_=5f5c411810ee528118024297a515c987
