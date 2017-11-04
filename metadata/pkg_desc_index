@@ -24,14 +24,13 @@ games-util/ips-pl 0.01: Perl script which is designed to apply an IPS patch to a
 media-fonts/powerline-fonts 9999-r2: Monospaced fonts pre-patched with Powerline symbols
 media-fonts/powerline-symbols 9999: OpenType Unicode font containing only Powerline-specific symbols.
 media-gfx/hakuneko 1.4.2 9999: HakuNeko (Legacy) manga downloader
-media-gfx/pydot 1.2.3 9999: Python interface to Graphviz's Dot language
 media-libs/libsdl 1.2.9999: Simple Direct Media Layer
 media-libs/openglide 9999-r1: Glide to OpenGL wrapper
 media-libs/sdl-sound 9999-r1: A library that handles the decoding of sound file formats
 media-sound/munt 1.5.0 2.0.4 2.1.0 9999: Software synthesiser emulating pre-GM MIDI (e.g., Roland MT-32)
 media-sound/vgmplay 0.40.8 9999: Video game music (VGM) file command-line player
 net-p2p/imule 2.3.2.3-r3: Free, open-source, anonymous, I2P-based, file-sharing P2P software
-net-vpn/zeronet 0.5.7 9999: Decentralized websites using Bitcoin crypto and BitTorrent network
+net-vpn/zeronet 0.5.7 0.6.0 9999: Decentralized websites using Bitcoin crypto and BitTorrent network
 sci-biology/betse 0.5.0 9999: Bioelectric Tissue Simulation Engine (BETSE)
 sci-biology/betsee 9999: Bioelectric Tissue Simulation Engine Environment (BETSEE)
 sys-power/phc-k8 0.4.5 0.4.6_beta1 0.4.6: Processor Hardware Control for AMD K8 CPUs
