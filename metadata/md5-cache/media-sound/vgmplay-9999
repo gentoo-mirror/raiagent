@@ -7,5 +7,5 @@ IUSE=alsa ao debug opl pulseaudio
 LICENSE=GPL-2
 RDEPEND=sys-libs/zlib virtual/libc ao? ( media-libs/libao ) alsa? ( media-libs/alsa-oss ) pulseaudio? ( media-sound/pulseaudio )
 SLOT=0
-_eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc	readme.gentoo-r1	6f03e110529650f57fc7d1fb908b8986
+_eclasses_=git-r3	fec09a83ae965b041b47f5ff7c8ba29a	readme.gentoo-r1	6f03e110529650f57fc7d1fb908b8986
 _md5_=d2e42425c3714763f6ea5d6a3848fc49

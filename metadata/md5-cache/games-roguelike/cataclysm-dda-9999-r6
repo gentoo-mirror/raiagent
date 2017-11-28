@@ -8,5 +8,5 @@ LICENSE=CC-BY-SA-3.0
 RDEPEND=app-arch/bzip2 sys-libs/glibc sys-libs/zlib lua? ( >=dev-lang/lua-5.1:0 ) luajit? ( dev-lang/luajit:2 ) ncurses? ( >=sys-libs/ncurses-6.0:0 ) nls? ( sys-devel/gettext:0[nls] ) sdl? ( media-libs/libsdl2:0 media-libs/sdl2-ttf:0 media-libs/sdl2-image:0[jpeg,png] media-libs/freetype:2 ) sound? ( media-libs/sdl2-mixer:0 )
 REQUIRED_USE=lua? ( sdl ) luajit? ( lua ) sound? ( sdl ) || ( ncurses sdl )
 SLOT=0
-_eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
+_eclasses_=git-r3	fec09a83ae965b041b47f5ff7c8ba29a
 _md5_=85c2a6b882f1fe5149efc8c8cf71db4a
