@@ -8,5 +8,5 @@ KEYWORDS=~amd64 ~arm ~ppc ~ppc64 ~x86 ~x86-fbsd
 LICENSE=anonymouspro? ( OFL-1.1 ) dejavusansmono? ( BitstreamVera ) droidsansmono? ( Apache-2.0 ) inconsolata? ( OFL ) inconsolatadz? ( OFL ) liberationmono? ( OFL-1.1 ) meslo? ( Apache-2.0 ) sourcecodepro? ( OFL-1.1 ) terminus_pcf? ( OFL-1.1 ) ubuntumono? ( UbuntuFontLicense-1.0 )
 REQUIRED_USE=|| ( anonymouspro dejavusansmono droidsansmono inconsolata inconsolatadz liberationmono meslo sourcecodepro terminus_pcf ubuntumono )
 SLOT=0
-_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	227b041a120d309fdefbebb3b8c1dfa9	font	82836641e7d4639329d8c195234ad0e3	git-r3	fec09a83ae965b041b47f5ff7c8ba29a	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
+_eclasses_=desktop	2ccd1dd1dd7bfb8795eea024a4f91bb6	epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	97ce9decef1ff4b6c5be700283f67343	font	82836641e7d4639329d8c195234ad0e3	git-r3	fec09a83ae965b041b47f5ff7c8ba29a	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
 _md5_=0ef73006f2249c0e6f3d8625d8bc50b6
