@@ -8,4 +8,4 @@ LICENSE=GPL-2
 RDEPEND=sys-libs/zlib virtual/libc ao? ( media-libs/libao ) alsa? ( media-libs/alsa-oss ) pulseaudio? ( media-sound/pulseaudio )
 SLOT=0
 _eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9	readme.gentoo-r1	22ae82e140bdd95d17a34fd5fd733190
-_md5_=d2e42425c3714763f6ea5d6a3848fc49
+_md5_=426230dd6cdc66e2c6b6feec43dd8d1e
