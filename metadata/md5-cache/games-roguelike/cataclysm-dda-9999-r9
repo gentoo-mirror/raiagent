@@ -9,4 +9,4 @@ RDEPEND=app-arch/bzip2 sys-libs/glibc sys-libs/zlib virtual/libc astyle? ( dev-u
 REQUIRED_USE=sound? ( sdl ) || ( ncurses sdl )
 SLOT=0
 _eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
-_md5_=c83af34c4ea88799f73850a9968ac66e
+_md5_=39aeefb79e844e85cdbba61c2ab2e7d6
