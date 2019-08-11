@@ -1,0 +1,42 @@
+app-lyx/elyxer 1.2.5: LyX to HTML converter
+app-misc/powerline 2.6 2.7 9999-r20: Python-based statusline/prompt utility
+app-text/labelnation 1.218: Command-line label-printing program
+app-vim/powerline-vim 2.6 2.7 9999: Vim plugin for Python-based Powerline
+app-wine/python-winbuilder 0.1.1: MinGW-based build environment for Python projects
+dev-libs/libvterm 9999-r2: Abstract library implementation of a VT220/xterm/ECMA-48 terminal emulator
+dev-python/EasyProcess 0.2.5 9999: Easy to use python subprocess interface
+dev-python/PyVirtualDisplay 0.2.1 0.2.3 9999: Python wrapper for Xvfb, Xephyr and Xvnc
+dev-python/dropbox-sdk 8.0.0 9999: Python SDK for Dropbox API v2
+dev-python/instant-rst 0.9.2.2 9999: Lightweight web server for previewing reStructuredText documents
+dev-python/networkx 2.1 9999: Python tools to manipulate graphs and complex networks
+dev-python/pprofile 1.11.0 9999: Line-granularity thread-aware pure-Python profiler
+dev-python/pymsgbox 1.0.3: Cross-platform, pure-Python, JavaScript-like message boxes
+dev-python/pytest-qt 3.2.1 3.2.2 9999: pytest plugin for PyQt4 or PyQt5 applications
+dev-python/pytest-xvfb 1.2.0 9999: pytest plugin to run Xvfb for tests
+dev-python/requests-toolbelt 0.8.0 9999: Utility belt for advanced users of python-requests
+dev-python/snakeviz 0.4.1 9999: Web-based viewer for Python profiler output
+dev-python/twine 1.9.1 9999: Collection of utilities for interacting with PyPI
+dev-python/voluptuous 0.8.7-r1: Python data validation library
+dev-python/yamale 1.7.0 9999: Python YAML schema validator
+dev-util/ctags 99999999: Universal Ctags: a maintained ctags implementation
+dev-vcs/git-remote-dropbox 0.0.3: Transparent bridge between Git and Dropbox
+dev-vcs/git-remote-hg 9999: Official Mercurial bridge from the Git project
+games-engines/ags 3.4.0.16 9999: Adventure Game Studio (AGS) runtime engine
+games-ftl/grognaks_mod_manager 9999: Grognak's Mod Manager, a "Faster than Light" (FTL) mod manager
+games-roguelike/cataclysm-dda 0.9c-r5 0.9d 9999-r9: Roguelike set in a post-apocalyptic world
+games-roguelike/tsl 0.40: The Slimy Lichmummy, an adventure game similar in style to the classic Rogue
+games-roguelike/unreal-world 3.16: Fantasy roguelike set in the far north during the late Iron-Age
+games-util/ips-pl 0.01: Perl script which is designed to apply an IPS patch to a ROM
+media-fonts/powerline-fonts 9999-r2: Monospaced fonts pre-patched with Powerline symbols
+media-fonts/powerline-symbols 9999: OpenType Unicode font containing only Powerline-specific symbols.
+media-gfx/hakuneko 1.4.2 9999: HakuNeko (Legacy) manga downloader
+media-libs/libsdl 1.2.9999: Simple Direct Media Layer
+media-libs/openglide 9999-r1: Glide to OpenGL wrapper
+media-libs/sdl-sound 9999-r1: A library that handles the decoding of sound file formats
+media-sound/munt 1.5.0 2.0.4 2.1.0 9999: Software synthesiser emulating pre-GM MIDI (e.g., Roland MT-32)
+media-sound/vgmplay 0.40.7 0.40.8 0.40.9 9999: Video game music (VGM) file command-line player
+net-p2p/imule 2.3.2.3-r3: Free, open-source, anonymous, I2P-based, file-sharing P2P software
+net-vpn/zeronet 0.6.0 0.6.2 0.6.4-r1 0.6.5 9999-r1: Decentralized websites using Bitcoin crypto and BitTorrent network
+sci-biology/betse 0.5.0 0.6.1 0.7.0 0.9.0 0.9.1 1.0.0 9999: Bioelectric Tissue Simulation Engine (BETSE)
+sci-biology/betsee 0.9.0.0 0.9.1.0 1.0.0.0 9999: Bioelectric Tissue Simulation Engine Environment (BETSEE)
+sys-power/phc-k8 0.4.5 0.4.6_beta1 0.4.6: Processor Hardware Control for AMD K8 CPUs
