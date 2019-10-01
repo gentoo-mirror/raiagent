@@ -8,6 +8,7 @@ dev-python/EasyProcess 0.2.5 9999: Easy to use python subprocess interface
 dev-python/PyVirtualDisplay 0.2.1 0.2.3 9999: Python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/base58 1.0.3 9999: Base58 implementation compatible with what is used by the bitcoin network.
 dev-python/dropbox-sdk 8.0.0 9999: Python SDK for Dropbox API v2
+dev-python/fastecdsa 1.7.4 9999: Python library for fast elliptic curve crypto
 dev-python/instant-rst 0.9.2.2 9999: Lightweight web server for previewing reStructuredText documents
 dev-python/maxminddb 1.5.1 9999: Python MaxMind DB reader extension
 dev-python/networkx 2.1 9999: Python tools to manipulate graphs and complex networks
