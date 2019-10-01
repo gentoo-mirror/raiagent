@@ -16,6 +16,7 @@ dev-python/pymsgbox 1.0.3: Cross-platform, pure-Python, JavaScript-like message 
 dev-python/pytest-qt 3.2.1 3.2.2 9999: pytest plugin for PyQt4 or PyQt5 applications
 dev-python/pytest-xvfb 1.2.0 9999: pytest plugin to run Xvfb for tests
 dev-python/requests-toolbelt 0.8.0 9999: Utility belt for advanced users of python-requests
+dev-python/shiboken2 5.12.4-r1: Python binding generator for C++ libraries
 dev-python/snakeviz 0.4.1 9999: Web-based viewer for Python profiler output
 dev-python/twine 1.9.1 9999: Collection of utilities for interacting with PyPI
 dev-python/voluptuous 0.8.7-r1: Python data validation library
