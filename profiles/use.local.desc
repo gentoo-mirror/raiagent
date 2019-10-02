@@ -22,8 +22,6 @@ dev-python/PyVirtualDisplay:xauth - Install xauth to make Xauthority files at ru
 dev-python/PyVirtualDisplay:xephyr - Install Xephyr as a runtime backend
 dev-python/PyVirtualDisplay:xvfb - Install Xvfb as a runtime backend
 dev-python/PyVirtualDisplay:xvnc - Install TigerVNC's Xvnc as a runtime backend
-dev-python/networkx:matplotlib - Add support for dev-python/matplotlib
-dev-python/networkx:scipy - Enable SciPy backend
 dev-python/pyside2:3d - Build Qt3DCore, Qt3DAnimation, Qt3DExtras, Qt3DInput, Qt3DLogic, and Qt3DRender modules
 dev-python/pyside2:charts - Build QtCharts module
 dev-python/pyside2:concurrent - Build QtConcurrent module

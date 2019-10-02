@@ -11,7 +11,6 @@ dev-python/dropbox-sdk 8.0.0 9999: Python SDK for Dropbox API v2
 dev-python/fastecdsa 1.7.4 9999: Python library for fast elliptic curve crypto
 dev-python/instant-rst 0.9.2.2 9999: Lightweight web server for previewing reStructuredText documents
 dev-python/maxminddb 1.5.1 9999: Python MaxMind DB reader extension
-dev-python/networkx 2.1 9999: Python tools to manipulate graphs and complex networks
 dev-python/pprofile 1.11.0 9999: Line-granularity thread-aware pure-Python profiler
 dev-python/pymsgbox 1.0.3: Cross-platform, pure-Python, JavaScript-like message boxes
 dev-python/pyside2 5.12.4: Python bindings for the Qt framework
