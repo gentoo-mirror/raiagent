@@ -3,10 +3,12 @@ app-misc/powerline 2.6 2.7 9999-r20: Python-based statusline/prompt utility
 app-text/labelnation 1.218: Command-line label-printing program
 app-vim/powerline-vim 2.6 2.7 9999: Vim plugin for Python-based Powerline
 app-wine/python-winbuilder 0.1.1: MinGW-based build environment for Python projects
+dev-libs/libsecp256k1 0.1_pre20190331: Optimized C library for EC operations on curve secp256k1
 dev-libs/libvterm 9999-r2: Abstract library implementation of a VT220/xterm/ECMA-48 terminal emulator
 dev-python/EasyProcess 0.2.5 9999: Easy to use python subprocess interface
 dev-python/PyVirtualDisplay 0.2.1 0.2.3 9999: Python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/base58 1.0.3 9999: Base58 implementation compatible with what is used by the bitcoin network.
+dev-python/coincurve 12.0.0 9999: Easy interface to the Bitcoin data structures and protocol
 dev-python/dropbox-sdk 8.0.0 9999: Python SDK for Dropbox API v2
 dev-python/fastecdsa 1.7.4 9999: Python library for fast elliptic curve crypto
 dev-python/instant-rst 0.9.2.2 9999: Lightweight web server for previewing reStructuredText documents
