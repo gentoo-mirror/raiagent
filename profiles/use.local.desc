@@ -70,6 +70,8 @@ dev-util/ctags:xml - Support XML parsing
 dev-util/ctags:yaml - Support YAML parsing
 games-engines/ags:midi - Enable MIDI music via Eric A. Welsh's GUS patch set (recommended)
 games-engines/ags:tremor - Decode Ogg Vorbis audio with a low-quality fixed-point decoder
+games-engines/seventhsense:data - Install all data for Lone Wolf books 1-18 (recommended)
+games-engines/seventhsense:editor - Enable book editor (e.g., to modify existing books, create new books)
 games-roguelike/cataclysm-dda:astyle - Check for astyle-specific lint regressions
 games-roguelike/cataclysm-dda:clang - Build with clang++ rather than g++ (experimental!)
 games-roguelike/cataclysm-dda:lintjson - Check for JSON-specific lint regressions
