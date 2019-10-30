@@ -12,7 +12,7 @@ dev-python/bencode_py 2.1.0 9999: Simple bencode parser
 dev-python/coincurve 12.0.0 9999: Easy interface to the Bitcoin data structures and protocol
 dev-python/dropbox-sdk 8.0.0 9999: Python SDK for Dropbox API v2
 dev-python/fastecdsa 1.7.4 9999: Python library for fast elliptic curve crypto
-dev-python/instant-rst 0.9.2.2 9999: Lightweight web server for previewing reStructuredText documents
+dev-python/instant-rst 0.9.9.1 9999: Lightweight web server for previewing reStructuredText documents
 dev-python/maxminddb 1.5.1 9999: Python MaxMind DB reader extension
 dev-python/merkletools 1.0.3 9999: Merkle Tools
 dev-python/pprofile 1.11.0 9999: Line-granularity thread-aware pure-Python profiler
@@ -26,7 +26,6 @@ dev-python/python-bitcoinlib 0.10.2 9999: Easy interface to the Bitcoin data str
 dev-python/requests-toolbelt 0.8.0 9999: Utility belt for advanced users of python-requests
 dev-python/shiboken2 5.12.4-r1 5.12.5: Python binding generator for C++ libraries
 dev-python/snakeviz 0.4.1 9999: Web-based viewer for Python profiler output
-dev-python/twine 1.9.1 9999: Collection of utilities for interacting with PyPI
 dev-python/voluptuous 0.8.7-r1: Python data validation library
 dev-python/yamale 1.7.0 9999: Python YAML schema validator
 dev-util/ctags 99999999: Universal Ctags: a maintained ctags implementation
