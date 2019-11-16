@@ -3,27 +3,32 @@
 
 EAPI=7
 
-PYTHON_COMPAT=( python2_7 python3_{4,5,6,7,8} pypy{3,} )
+PYTHON_COMPAT=( python3_{5,6,7,8} pypy3 )
 
 inherit distutils-r1
 
-DESCRIPTION="Base58 implementation compatible with what is used by the bitcoin network."
+DESCRIPTION="Tox plugin using Python 3 venvs for Python 3 test environments"
 HOMEPAGE="
-	https://pypi.org/project/base58 https://github.com/keis/base58"
+	https://pypi.org/project/tox-venv
+	https://github.com/tox-dev/tox-venv"
 
-LICENSE="MIT"
+LICENSE="BSD"
 SLOT="0"
-IUSE="doc"
+IUSE=""
 REQUIRED_USE="${PYTHON_REQUIRED_USE}"
 
-BDEPEND="dev-python/setuptools[${PYTHON_USEDEP}]"
+BDEPEND="
+	dev-python/setuptools[${PYTHON_USEDEP}]
+"
+DEPEND="${PYTHON_DEPS}
+	>=dev-python/tox-3.8.1[${PYTHON_USEDEP}]
+"
 RDEPEND="${PYTHON_DEPS}"
-DEPEND="${PYTHON_DEPS}"
 
 if [[ ${PV} == 9999 ]]; then
 	inherit git-r3
 
-	EGIT_REPO_URI="https://github.com/keis/base58.git"
+	EGIT_REPO_URI="https://github.com/tox-dev/tox-venv.git"
 	EGIT_BRANCH="master"
 	SRC_URI=""
 	KEYWORDS=""
