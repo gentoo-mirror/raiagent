@@ -59,6 +59,7 @@ dev-python/pyside2:widgets - Build QtWidgets module
 dev-python/pyside2:x11extras - Build QtX11Extras module
 dev-python/pyside2:xml - Build QtXml module
 dev-python/pyside2:xmlpatterns - Build QtXmlPatterns module
+dev-python/pyside2-tools:tools - Install supplementary tools (rcc, uic, designer)
 dev-python/shiboken2:docstrings - Expose documentation as Python docstrings (recommended)
 dev-python/shiboken2:numpy - Enable NumPy-based 2D array support
 dev-python/yamale:ruamel - Enable "ruamel.yaml"-based YAML 1.2 support
