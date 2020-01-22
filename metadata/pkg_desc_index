@@ -51,5 +51,5 @@ media-sound/munt 1.5.0 2.0.4 2.1.0 9999: Software synthesiser emulating pre-GM M
 media-sound/vgmplay 0.40.7 0.40.8 0.40.9 9999: Video game music (VGM) file command-line player
 net-p2p/imule 2.3.2.3-r3: Free, open-source, anonymous, I2P-based, file-sharing P2P software
 net-vpn/zeronet 0.6.0 0.6.2 0.6.4-r1 0.6.5 0.7.1-r1 9999-r2: Decentralized websites using Bitcoin crypto and BitTorrent network
-sci-biology/betse 0.5.0 0.6.1 0.7.0 0.9.0 0.9.1 1.0.0 1.1.0 1.1.1 9999-r1: Bioelectric Tissue Simulation Engine (BETSE)
+sci-biology/betse 1.1.1 9999-r1: Bioelectric Tissue Simulation Engine (BETSE)
 sci-biology/betsee 0.9.0.0 0.9.1.0 1.0.0.0 1.1.0.0 1.1.1.0 9999: Bioelectric Tissue Simulation Engine Environment (BETSEE)
