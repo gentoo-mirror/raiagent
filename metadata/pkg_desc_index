@@ -1,5 +1,5 @@
 app-lyx/elyxer 1.2.5: LyX to HTML converter
-app-misc/powerline 2.7 9999-r20: Python-based statusline/prompt utility
+app-misc/powerline 2.7 9999-r21: Python-based statusline/prompt utility
 app-text/labelnation 1.218: Command-line label-printing program
 app-vim/powerline-vim 2.7 9999-r1: Vim plugin for Python-based Powerline
 app-wine/python-winbuilder 0.1.1: MinGW-based build environment for Python projects
