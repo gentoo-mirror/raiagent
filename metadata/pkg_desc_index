@@ -30,12 +30,10 @@ dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 tes
 dev-python/yamale 1.7.0 9999: Python YAML schema validator
 dev-util/ctags 99999999: Universal Ctags: a maintained ctags implementation
 dev-vcs/git-remote-dropbox 0.0.3: Transparent bridge between Git and Dropbox
-dev-vcs/git-remote-hg 9999: Official Mercurial bridge from the Git project
 games-engines/ags 3.4.0.16 9999: Adventure Game Studio (AGS) runtime engine
 games-engines/frotz 2.50_beta2: Interpreter for Z-code based text games
 games-engines/gargoyle 2019.1: An Interactive Fiction (IF) player supporting all major formats
 games-engines/seventhsense 1.17.0: Playing aid for Project Aon editions of Lone Wolf adventure books
-games-ftl/grognaks_mod_manager 9999: Grognak's Mod Manager, a "Faster than Light" (FTL) mod manager
 games-roguelike/cataclysm-dda 0.9c-r5 0.9d 9999-r9: Roguelike set in a post-apocalyptic world
 games-roguelike/tsl 0.40: The Slimy Lichmummy, an adventure game similar in style to the classic Rogue
 games-roguelike/unreal-world 3.16: Fantasy roguelike set in the far north during the late Iron-Age
