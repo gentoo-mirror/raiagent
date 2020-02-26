@@ -1,16 +1,17 @@
+acct-group/zeronet 0: Group for the zeronet daemon
+acct-user/zeronet 0: User for the zeronet daemon
 app-lyx/elyxer 1.2.5: LyX to HTML converter
 app-misc/powerline 2.7 9999-r21: Python-based statusline/prompt utility
 app-text/labelnation 1.218: Command-line label-printing program
 app-vim/powerline-vim 2.7 9999-r1: Vim plugin for Python-based Powerline
-app-wine/python-winbuilder 0.1.1: MinGW-based build environment for Python projects
 dev-libs/libsecp256k1 0.1_pre20190331: Optimized C library for EC operations on curve secp256k1
 dev-libs/libvterm 9999-r2: Abstract library implementation of a VT220/xterm/ECMA-48 terminal emulator
 dev-python/EasyProcess 0.2.5 9999: Easy to use python subprocess interface
-dev-python/PyVirtualDisplay 0.2.1 0.2.3 9999: Python wrapper for Xvfb, Xephyr and Xvnc
+dev-python/PyVirtualDisplay 0.2.3 9999: Python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/base58 1.0.3 9999: Base58 implementation compatible with what is used by the bitcoin network.
 dev-python/bencode_py 2.1.0 9999: Simple bencode parser
 dev-python/coincurve 12.0.0 9999: Easy interface to the Bitcoin data structures and protocol
-dev-python/dropbox-sdk 8.0.0 9999: Python SDK for Dropbox API v2
+dev-python/dropbox-sdk 9.4.0 9999: Python SDK for Dropbox API v2
 dev-python/fastecdsa 1.7.4 9999: Python library for fast elliptic curve crypto
 dev-python/instant-rst 0.9.9.1 9999: Lightweight web server for previewing reStructuredText documents
 dev-python/maxminddb 1.5.1 9999: Python MaxMind DB reader extension
@@ -20,16 +21,14 @@ dev-python/pyelliptic 1.5.6 9999: Deprecated Python OpenSSL wrapper
 dev-python/pymsgbox 1.0.3: Cross-platform, pure-Python, JavaScript-like message boxes
 dev-python/pyside2 5.12.5-r3 5.14.0 5.14.1: Python bindings for the Qt framework
 dev-python/pyside2-tools 5.12.5-r1 5.14.0 5.14.1: PySide development tools (lupdate, rcc, uic)
-dev-python/pytest-qt 3.2.1 3.2.2 9999: pytest plugin for PyQt4 or PyQt5 applications
 dev-python/pytest-xvfb 1.2.0 9999: pytest plugin to run Xvfb for tests
 dev-python/python-bitcoinlib 0.10.2 9999: Easy interface to the Bitcoin data structures and protocol
-dev-python/requests-toolbelt 0.8.0 9999: Utility belt for advanced users of python-requests
 dev-python/shiboken2 5.12.5-r3 5.14.0 5.14.1: Python binding generator for C++ libraries
 dev-python/snakeviz 0.4.1 9999: Web-based viewer for Python profiler output
 dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 test environments
 dev-python/yamale 1.7.0 9999: Python YAML schema validator
 dev-util/ctags 99999999: Universal Ctags: a maintained ctags implementation
-dev-vcs/git-remote-dropbox 0.0.3: Transparent bridge between Git and Dropbox
+dev-vcs/git-remote-dropbox 1.1.1 9999: Transparent bridge between Git and Dropbox
 games-engines/ags 3.4.0.16 9999: Adventure Game Studio (AGS) runtime engine
 games-engines/frotz 2.50_beta2: Interpreter for Z-code based text games
 games-engines/gargoyle 2019.1: An Interactive Fiction (IF) player supporting all major formats
@@ -48,6 +47,6 @@ media-sound/deadbeef 1.8.2 9999-r1: foobar2k-like music player
 media-sound/munt 1.5.0 2.0.4 2.1.0 9999: Software synthesiser emulating pre-GM MIDI (e.g., Roland MT-32)
 media-sound/vgmplay 0.40.7 0.40.8 0.40.9 9999: Video game music (VGM) file command-line player
 net-p2p/imule 2.3.2.3-r3: Free, open-source, anonymous, I2P-based, file-sharing P2P software
-net-vpn/zeronet 0.6.0 0.6.2 0.6.4-r1 0.6.5 0.7.1-r1 9999-r2: Decentralized websites using Bitcoin crypto and BitTorrent network
+net-vpn/zeronet 0.7.1-r2 9999-r3: Decentralized websites using Bitcoin crypto and BitTorrent network
 sci-biology/betse 1.1.1 9999-r1: Bioelectric Tissue Simulation Engine (BETSE)
 sci-biology/betsee 0.9.0.0 0.9.1.0 1.0.0.0 1.1.0.0 1.1.1.0 9999: Bioelectric Tissue Simulation Engine Environment (BETSEE)
