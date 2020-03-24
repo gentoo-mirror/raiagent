@@ -42,13 +42,13 @@ dev-python/merkletools 1.0.3 9999: Merkle Tools
 dev-python/pprofile 1.11.0 9999: Line-granularity thread-aware pure-Python profiler
 dev-python/pyelliptic 1.5.6 9999: Deprecated Python OpenSSL wrapper
 dev-python/pymsgbox 1.0.3: Cross-platform, pure-Python, JavaScript-like message boxes
-dev-python/pyside2 5.12.5-r3 5.14.0 5.14.1: Python bindings for the Qt framework
+dev-python/pyside2 5.12.5-r3 5.14.0 5.14.1-r1: Python bindings for the Qt framework
 dev-python/pyside2-tools 5.12.5-r1 5.14.0 5.14.1: PySide development tools (lupdate, rcc, uic)
 dev-python/pytest-xvfb 1.2.0 9999: pytest plugin to run Xvfb for tests
 dev-python/python-bitcoinlib 0.10.2 9999: Easy interface to the Bitcoin data structures and protocol
 dev-python/python-engineio 3.11.2 9999: Python Engine.IO server and client
 dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
-dev-python/shiboken2 5.12.5-r3 5.14.0 5.14.1: Python binding generator for C++ libraries
+dev-python/shiboken2 5.12.5-r3 5.14.0 5.14.1-r1: Python binding generator for C++ libraries
 dev-python/snakeviz 0.4.1 9999: Web-based viewer for Python profiler output
 dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 test environments
 dev-python/yamale 1.7.0 9999: Python YAML schema validator
