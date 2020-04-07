@@ -34,7 +34,7 @@ dev-python/pyside2:charts - Build QtCharts module
 dev-python/pyside2:concurrent - Build QtConcurrent module
 dev-python/pyside2:datavis - Build QtDataVisualization module
 dev-python/pyside2:designer - Build QtDesigner and QtUiTools modules
-dev-python/pyside2:gles2 - Build QtGui "QOpenGL*" classes
+dev-python/pyside2:gles2-only - Build QtGui "QOpenGL*" classes
 dev-python/pyside2:gui - Build QtGui module
 dev-python/pyside2:help - Build QtHelp module
 dev-python/pyside2:location - Build QtLocation module
