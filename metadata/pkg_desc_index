@@ -48,7 +48,7 @@ dev-python/pytest-xvfb 1.2.0 9999: pytest plugin to run Xvfb for tests
 dev-python/python-bitcoinlib 0.10.2 9999: Easy interface to the Bitcoin data structures and protocol
 dev-python/python-engineio 3.11.2 9999: Python Engine.IO server and client
 dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
-dev-python/shiboken2 5.14.1-r1: Python binding generator for C++ libraries
+dev-python/shiboken2 5.14.1-r2: Python binding generator for C++ libraries
 dev-python/snakeviz 0.4.1 9999: Web-based viewer for Python profiler output
 dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 test environments
 dev-python/yamale 1.7.0 9999: Python YAML schema validator
