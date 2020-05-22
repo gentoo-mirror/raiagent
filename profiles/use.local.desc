@@ -52,6 +52,7 @@ dev-python/pyside2:speech - Build QtTextToSpeech module
 dev-python/pyside2:sql - Build QtSql module
 dev-python/pyside2:svg - Build QtSvg module
 dev-python/pyside2:testlib - Build QtTest module
+dev-python/pyside2:vulkan - Build QtGui "QVulkan*" classes
 dev-python/pyside2:webchannel - Build QtWebChannel module
 dev-python/pyside2:webengine - Build QtWebEngine and QtWebEngineWidgets modules
 dev-python/pyside2:websockets - Build QtWebSockets module
