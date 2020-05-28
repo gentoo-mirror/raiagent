@@ -5,7 +5,6 @@ app-misc/powerline 2.7 9999-r21: Python-based statusline/prompt utility
 app-text/labelnation 1.218: Command-line label-printing program
 app-vim/powerline-vim 2.7 9999-r1: Vim plugin for Python-based Powerline
 dev-libs/libsecp256k1 0.1_pre20190331: Optimized C library for EC operations on curve secp256k1
-dev-libs/libvterm 9999-r2: Abstract library implementation of a VT220/xterm/ECMA-48 terminal emulator
 dev-perl/Compiler-Lexer 0.23: Lexical Analyzer for Perl5
 dev-perl/Config-Identity 0.0019: Load (and optionally decrypt via GnuPG) user/pass identity information
 dev-perl/Data-Record 0.02: "split" on steroids
