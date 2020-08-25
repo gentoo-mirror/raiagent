@@ -51,6 +51,7 @@ dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
 dev-python/shiboken2 5.14.1-r3 5.14.2: Python binding generator for C++ libraries
 dev-python/snakeviz 0.4.1 9999: Web-based viewer for Python profiler output
 dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 test environments
+dev-python/typeguard 2.9.1 9999: Python library providing run-time type checking for functions
 dev-python/yamale 1.7.0 9999: Python YAML schema validator
 dev-util/ctags 99999999: Universal Ctags: a maintained ctags implementation
 dev-vcs/git-remote-dropbox 1.1.1 9999: Transparent bridge between Git and Dropbox
