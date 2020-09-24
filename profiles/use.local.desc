@@ -24,10 +24,6 @@ dev-libs/libsecp256k1:endomorphism - Enable endomorphism
 dev-libs/libsecp256k1:experimental - Allow experimental USE flags
 dev-libs/libsecp256k1:recovery - Enable ECDSA pubkey recovery module
 dev-libs/libsecp256k1:test_openssl - Enable OpenSSL comparison tests
-dev-python/PyVirtualDisplay:xauth - Install xauth to make Xauthority files at runtime
-dev-python/PyVirtualDisplay:xephyr - Install Xephyr as a runtime backend
-dev-python/PyVirtualDisplay:xvfb - Install Xvfb as a runtime backend
-dev-python/PyVirtualDisplay:xvnc - Install TigerVNC's Xvnc as a runtime backend
 dev-python/coincurve:gmp - Enable GMP-based optimizations (recommended)
 dev-python/pyside2:3d - Build Qt3DCore, Qt3DAnimation, Qt3DExtras, Qt3DInput, Qt3DLogic, and Qt3DRender modules
 dev-python/pyside2:charts - Build QtCharts module

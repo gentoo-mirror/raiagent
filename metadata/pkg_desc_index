@@ -27,8 +27,6 @@ dev-perl/Test-Directory 0.051: Perl extension for maintaining test directories.
 dev-perl/Test-MinimumVersion-Fast 0.04: does your code require newer perl than you think?
 dev-perl/Test-PAUSE-Permissions 0.07: tests module permissions in your distribution
 dev-perl/Text-MicroTemplate 0.24: Micro template engine with Perl5 language
-dev-python/EasyProcess 0.2.5 9999: Easy to use python subprocess interface
-dev-python/PyVirtualDisplay 0.2.3 9999: Python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/base58 1.0.3 9999: Base58 implementation compatible with what is used by the bitcoin network.
 dev-python/beartype 0.2.0 9999: Unbearably fast runtime type checking in pure Python.
 dev-python/bencode_py 2.1.0 9999: Simple bencode parser
@@ -45,7 +43,6 @@ dev-python/pymsgbox 1.0.3: Cross-platform, pure-Python, JavaScript-like message 
 dev-python/pysha3 1.0.2-r1: SHA-3 (Keccak) for Python 2.7 - 3.5
 dev-python/pyside2 5.14.1-r2 5.14.2-r1: Python bindings for the Qt framework
 dev-python/pyside2-tools 5.14.1 5.14.2: PySide development tools (lupdate, rcc, uic)
-dev-python/pytest-xvfb 1.2.0 9999: pytest plugin to run Xvfb for tests
 dev-python/python-bitcoinlib 0.10.2 9999: Easy interface to the Bitcoin data structures and protocol
 dev-python/python-engineio 3.11.2 9999: Python Engine.IO server and client
 dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
