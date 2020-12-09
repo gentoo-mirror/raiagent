@@ -74,8 +74,6 @@ games-roguelike/cataclysm-dda:clang - Build with clang++ rather than g++ (experi
 games-roguelike/cataclysm-dda:dev - Install live ebuild against "dev" rather than "master" branch (experimental!)
 games-roguelike/cataclysm-dda:lintjson - Check for JSON-specific lint regressions
 games-roguelike/cataclysm-dda:lto - Enable support for link time optimization (LTO)
-games-roguelike/cataclysm-dda:lua - Enable Lua scripting support (e.g., for modding)
-games-roguelike/cataclysm-dda:luajit - Use dev-lang/luajit instead of dev-lang/lua
 games-roguelike/cataclysm-dda:ncurses - Install ncurses-based terminal executable
 games-roguelike/cataclysm-dda:sdl - Install SDL-based X11 executable (recommended)
 games-roguelike/cataclysm-dda:sound - Enable SDL-based sound support
