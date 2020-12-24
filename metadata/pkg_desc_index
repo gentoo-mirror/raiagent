@@ -53,7 +53,7 @@ dev-python/typeguard 2.9.1 9999: Python library providing run-time type checking
 dev-python/yamale 1.7.0 9999: Python YAML schema validator
 dev-util/ctags 99999999: Universal Ctags: a maintained ctags implementation
 dev-vcs/git-remote-dropbox 1.1.1 9999: Transparent bridge between Git and Dropbox
-games-engines/ags 3.4.0.16 9999: Adventure Game Studio (AGS) runtime engine
+games-engines/ags 3.5.0.27 9999: Adventure Game Studio (AGS) runtime engine
 games-engines/frotz 2.50_beta2: Interpreter for Z-code based text games
 games-engines/gargoyle 2019.1: An Interactive Fiction (IF) player supporting all major formats
 games-engines/seventhsense 1.17.0: Playing aid for Project Aon editions of Lone Wolf adventure books
