@@ -35,15 +35,17 @@ dev-python/flask-socketio 4.2.1 9999: Socket.IO integration for Flask applicatio
 dev-python/instant-rst 0.9.9.1 9999: Lightweight web server for previewing reStructuredText documents
 dev-python/maxminddb 1.5.1 9999: Python MaxMind DB reader extension
 dev-python/merkletools 1.0.3 9999: Merkle Tools
+dev-python/panel 0.11.0 9999: High-level app and dashboarding solution for Python
+dev-python/param 1.10.0 9999: Make your Python code clearer and more reliable by declaring Parameters
 dev-python/pprofile 1.11.0 9999: Line-granularity thread-aware pure-Python profiler
+dev-python/pyct 0.4.8 9999: Python packaging Common Tasks
 dev-python/pyelliptic 1.5.6 9999: Deprecated Python OpenSSL wrapper
 dev-python/pymsgbox 1.0.3: Cross-platform, pure-Python, JavaScript-like message boxes
 dev-python/pysha3 1.0.2-r1: SHA-3 (Keccak) for Python 2.7 - 3.5
-dev-python/pyside2 5.14.1-r2 5.14.2-r1: Python bindings for the Qt framework
-dev-python/pyside2-tools 5.14.1 5.14.2: PySide development tools (lupdate, rcc, uic)
 dev-python/python-bitcoinlib 0.10.2 9999: Easy interface to the Bitcoin data structures and protocol
 dev-python/python-engineio 3.11.2 9999: Python Engine.IO server and client
 dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
+dev-python/pyviz_comms 2.0.1 9999: Bidirectional communication for the HoloViz ecosystem
 dev-python/shiboken2 5.14.1-r3 5.14.2: Python binding generator for C++ libraries
 dev-python/snakeviz 0.4.1 9999: Web-based viewer for Python profiler output
 dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 test environments
