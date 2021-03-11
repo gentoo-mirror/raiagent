@@ -29,9 +29,11 @@ dev-python/base58 1.0.3 9999: Base58 implementation compatible with what is used
 dev-python/beartype 0.6.0 9999: Unbearably fast O(1) runtime type checking in pure Python
 dev-python/bencode_py 2.1.0 9999: Simple bencode parser
 dev-python/coincurve 12.0.0 9999: Easy interface to the Bitcoin data structures and protocol
+dev-python/colorcet 2.0.6 9999: Collection of perceptually uniform colormaps
 dev-python/dropbox-sdk 9.4.0 9999: Python SDK for Dropbox API v2
 dev-python/fastecdsa 1.7.4 9999: Python library for fast elliptic curve crypto
 dev-python/flask-socketio 4.2.1 9999: Socket.IO integration for Flask applications
+dev-python/holoviews 1.14.2 9999: Make data analysis and visualization seamless and simple
 dev-python/instant-rst 0.9.9.1 9999: Lightweight web server for previewing reStructuredText documents
 dev-python/maxminddb 1.5.1 9999: Python MaxMind DB reader extension
 dev-python/merkletools 1.0.3 9999: Merkle Tools
