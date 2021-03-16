@@ -25,9 +25,6 @@ dev-libs/libsecp256k1:experimental - Allow experimental USE flags
 dev-libs/libsecp256k1:recovery - Enable ECDSA pubkey recovery module
 dev-libs/libsecp256k1:test_openssl - Enable OpenSSL comparison tests
 dev-python/coincurve:gmp - Enable GMP-based optimizations (recommended)
-dev-python/shiboken2:docstrings - Expose documentation as Python docstrings (recommended)
-dev-python/shiboken2:numpy - Implicitly convert passed NumPy arrays to Qt lists
-dev-python/shiboken2:vulkan - Generate "QSurface::VulkanSurface" bindings
 dev-python/yamale:ruamel - Enable "ruamel.yaml"-based YAML 1.2 support
 dev-util/ctags:json - Support JSON parsing
 dev-util/ctags:seccomp - Support security-enhanced sandbox submode

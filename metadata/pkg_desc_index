@@ -29,26 +29,19 @@ dev-python/base58 1.0.3 9999: Base58 implementation compatible with what is used
 dev-python/beartype 0.6.0 9999: Unbearably fast O(1) runtime type checking in pure Python
 dev-python/bencode_py 2.1.0 9999: Simple bencode parser
 dev-python/coincurve 12.0.0 9999: Easy interface to the Bitcoin data structures and protocol
-dev-python/colorcet 2.0.6 9999: Collection of perceptually uniform colormaps
 dev-python/dropbox-sdk 9.4.0 9999: Python SDK for Dropbox API v2
 dev-python/fastecdsa 1.7.4 9999: Python library for fast elliptic curve crypto
 dev-python/flask-socketio 4.2.1 9999: Socket.IO integration for Flask applications
-dev-python/holoviews 1.14.2 9999: Make data analysis and visualization seamless and simple
 dev-python/instant-rst 0.9.9.1 9999: Lightweight web server for previewing reStructuredText documents
 dev-python/maxminddb 1.5.1 9999: Python MaxMind DB reader extension
 dev-python/merkletools 1.0.3 9999: Merkle Tools
-dev-python/panel 0.11.0 9999: High-level app and dashboarding solution for Python
-dev-python/param 1.10.0 9999: Make your Python code clearer and more reliable by declaring Parameters
 dev-python/pprofile 1.11.0 9999: Line-granularity thread-aware pure-Python profiler
-dev-python/pyct 0.4.8 9999: Python packaging Common Tasks
 dev-python/pyelliptic 1.5.6 9999: Deprecated Python OpenSSL wrapper
 dev-python/pymsgbox 1.0.3: Cross-platform, pure-Python, JavaScript-like message boxes
 dev-python/pysha3 1.0.2-r1: SHA-3 (Keccak) for Python 2.7 - 3.5
 dev-python/python-bitcoinlib 0.10.2 9999: Easy interface to the Bitcoin data structures and protocol
 dev-python/python-engineio 3.11.2 9999: Python Engine.IO server and client
 dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
-dev-python/pyviz_comms 2.0.1 9999: Bidirectional communication for the HoloViz ecosystem
-dev-python/shiboken2 5.14.1-r3 5.14.2: Python binding generator for C++ libraries
 dev-python/snakeviz 0.4.1 9999: Web-based viewer for Python profiler output
 dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 test environments
 dev-python/typeguard 2.9.1 9999: Python library providing run-time type checking for functions
