@@ -43,6 +43,7 @@ dev-python/python-bitcoinlib 0.10.2 9999: Easy interface to the Bitcoin data str
 dev-python/python-engineio 3.11.2 9999: Python Engine.IO server and client
 dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
 dev-python/snakeviz 0.4.1 9999: Web-based viewer for Python profiler output
+dev-python/svgpathtools 1.4.1 9999: Tools for manipulating and analyzing SVG Path objects and Bezier curves
 dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 test environments
 dev-python/typeguard 2.9.1 9999: Python library providing run-time type checking for functions
 dev-python/yamale 1.7.0 9999: Python YAML schema validator
