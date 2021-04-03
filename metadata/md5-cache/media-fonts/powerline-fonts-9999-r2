@@ -1,0 +1,14 @@
+BDEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings ) >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install postinst postrm setup unpack
+DESCRIPTION=Monospaced fonts pre-patched with Powerline symbols
+EAPI=7
+HOMEPAGE=https://github.com/powerline/fonts
+INHERIT=font git-r3
+IUSE=3270 anonymouspro arimo cousine dejavusansmono droidsansmono droidsansmonodotted droidsansmonoslashed firamono gomono hack inconsolata inconsolatadz inconsolata-g liberationmono meslodotted mesloslashed monofur notomono novamono profont robotomono sourcecodepro spacemono symbolneu terminus_pcf tinos ubuntumono X
+KEYWORDS=~amd64 ~arm ~ppc ~ppc64 ~x86
+LICENSE=3270? ( || ( BSD CC-BY-SA-3.0 ) ) anonymouspro? ( OFL-1.1 ) arimo? ( Apache-2.0 ) cousine? ( Apache-2.0 ) dejavusansmono? ( BitstreamVera ) droidsansmono? ( Apache-2.0 ) droidsansmonodotted? ( Apache-2.0 ) droidsansmonoslashed? ( Apache-2.0 ) firamono? ( OFL-1.1 ) gomono? ( BSD ) hack? ( OFL-1.1 ) inconsolata? ( OFL ) inconsolatadz? ( OFL ) inconsolata-g? ( OFL ) liberationmono? ( OFL-1.1 ) meslodotted? ( Apache-2.0 ) mesloslashed? ( Apache-2.0 ) monofur? ( free-noncomm ) notomono? ( OFL-1.1 ) novamono? ( free-noncomm ) profont? ( MIT ) robotomono? ( Apache-2.0 ) sourcecodepro? ( OFL-1.1 ) spacemono? ( OFL-1.1 ) symbolneu? ( Apache-2.0 ) terminus_pcf? ( OFL-1.1 ) tinos? ( Apache-2.0 ) ubuntumono? ( UbuntuFontLicense-1.0 )
+PROPERTIES=live
+REQUIRED_USE=|| ( 3270 anonymouspro arimo cousine dejavusansmono droidsansmono droidsansmonodotted droidsansmonoslashed firamono gomono hack inconsolata inconsolatadz inconsolata-g liberationmono meslodotted mesloslashed monofur notomono novamono profont robotomono sourcecodepro spacemono symbolneu terminus_pcf tinos ubuntumono )
+SLOT=0
+_eclasses_=font	0667878c2b594871023dd1833d05996f	git-r3	b8e8c92aa5fe8df7187e466138eb4e52
+_md5_=193692fd6292bee963400007b8f802a8

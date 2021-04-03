@@ -65,6 +65,7 @@ media-fonts/powerline-fonts:mesloslashed - Install Powerline-patched Meslo Slash
 media-fonts/powerline-fonts:monofur - Install Powerline-patched Monofur fonts
 media-fonts/powerline-fonts:notomono - Install Powerline-patched Noto Mono fonts
 media-fonts/powerline-fonts:novamono - Install Powerline-patched Nova Mono fonts
+media-fonts/powerline-fonts:profont - Install Powerline-patched ProFont fonts
 media-fonts/powerline-fonts:robotomono - Install Powerline-patched Roboto Mono fonts
 media-fonts/powerline-fonts:sourcecodepro - Install Powerline-patched Source Code Pro fonts
 media-fonts/powerline-fonts:spacemono - Install Powerline-patched Space Mono fonts
