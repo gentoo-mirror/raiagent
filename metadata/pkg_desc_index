@@ -54,8 +54,6 @@ games-engines/frotz 2.50_beta2: Interpreter for Z-code based text games
 games-engines/gargoyle 2019.1: An Interactive Fiction (IF) player supporting all major formats
 games-engines/seventhsense 1.17.0: Playing aid for Project Aon editions of Lone Wolf adventure books
 games-roguelike/cataclysm-dda 0.9e_p2 9999-r9: Roguelike set in a post-apocalyptic world
-games-roguelike/tsl 0.40: The Slimy Lichmummy, an adventure game similar in style to the classic Rogue
-games-roguelike/unreal-world 3.16: Fantasy roguelike set in the far north during the late Iron-Age
 games-util/ips-pl 0.01-r1: Perl script which is designed to apply an IPS patch to a ROM
 media-fonts/powerline-fonts 9999-r2: Monospaced fonts pre-patched with Powerline symbols
 media-fonts/powerline-symbols 9999: OpenType Unicode font containing only Powerline-specific symbols.
