@@ -35,6 +35,7 @@ dev-python/flask-socketio 4.2.1 9999: Socket.IO integration for Flask applicatio
 dev-python/instant-rst 0.9.9.1 9999: Lightweight web server for previewing reStructuredText documents
 dev-python/maxminddb 1.5.1 9999: Python MaxMind DB reader extension
 dev-python/merkletools 1.0.3 9999: Merkle Tools
+dev-python/meshio 4.4.5: input/output for many mesh formats
 dev-python/pprofile 1.11.0 9999: Line-granularity thread-aware pure-Python profiler
 dev-python/pyelliptic 1.5.6 9999: Deprecated Python OpenSSL wrapper
 dev-python/pymsgbox 1.0.9: Cross-platform, pure-Python, JavaScript-like message boxes
