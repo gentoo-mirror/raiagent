@@ -43,9 +43,11 @@ dev-python/pysha3 1.0.2-r1: SHA-3 (Keccak) for Python 2.7 - 3.5
 dev-python/python-bitcoinlib 0.10.2 9999: Easy interface to the Bitcoin data structures and protocol
 dev-python/python-engineio 3.11.2 9999: Python Engine.IO server and client
 dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
+dev-python/scooby 0.5.7: input/output for many mesh formats
 dev-python/snakeviz 0.4.1 9999: Web-based viewer for Python profiler output
 dev-python/svgpathtools 1.4.1 9999: Tools for manipulating and analyzing SVG Path objects and Bezier curves
 dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 test environments
+dev-python/transforms3d 0.3.1: Functions for 3D coordinate transformations
 dev-python/typeguard 2.9.1 9999: Python library providing run-time type checking for functions
 dev-python/yamale 1.7.0 9999: Python YAML schema validator
 dev-util/ctags 99999999: Universal Ctags: a maintained ctags implementation
