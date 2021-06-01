@@ -39,7 +39,6 @@ dev-python/meshio 4.4.5: input/output for many mesh formats
 dev-python/pprofile 1.11.0 9999: Line-granularity thread-aware pure-Python profiler
 dev-python/pyelliptic 1.5.6 9999: Deprecated Python OpenSSL wrapper
 dev-python/pymsgbox 1.0.9: Cross-platform, pure-Python, JavaScript-like message boxes
-dev-python/pysha3 1.0.2-r1: SHA-3 (Keccak) for Python 2.7 - 3.5
 dev-python/python-bitcoinlib 0.10.2 9999: Easy interface to the Bitcoin data structures and protocol
 dev-python/python-engineio 3.11.2 9999: Python Engine.IO server and client
 dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
