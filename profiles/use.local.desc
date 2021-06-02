@@ -157,9 +157,6 @@ net-p2p/imule:kde - Build KDE Plasma applet
 net-p2p/imule:linkcreator - Build link creator utility
 net-p2p/imule:stats - Collect and display statistics
 net-p2p/imule:upnp - Support uPnP networking (recommended)
-net-vpn/zeronet:debug - Enable debugging (recommended for zite development)
-net-vpn/zeronet:meek - Enable meek-based Tor block circumvention
-net-vpn/zeronet:tor - Enable Tor-based anonymization (highly recommended)
 sci-biology/betse:ffmpeg - Support FFmpeg- or Libav-based animation encoding
 sci-biology/betse:graph - Support gene regulatory and biochemical reaction networks
 sci-biology/betse:profile - Support space and time usage profiling
