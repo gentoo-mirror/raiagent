@@ -41,6 +41,7 @@ dev-python/pymsgbox 1.0.9: Cross-platform, pure-Python, JavaScript-like message 
 dev-python/python-bitcoinlib 0.10.2 9999: Easy interface to the Bitcoin data structures and protocol
 dev-python/python-engineio 3.11.2 9999: Python Engine.IO server and client
 dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
+dev-python/pyvista 0.30.1: Easier Pythonic interface to VTK
 dev-python/scooby 0.5.7: input/output for many mesh formats
 dev-python/snakeviz 0.4.1 9999: Web-based viewer for Python profiler output
 dev-python/svgpathtools 1.4.1 9999: Tools for manipulating and analyzing SVG Path objects and Bezier curves
