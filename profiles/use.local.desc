@@ -43,8 +43,8 @@ games-roguelike/cataclysm-dda:ncurses - Install ncurses-based terminal executabl
 games-roguelike/cataclysm-dda:sdl - Install SDL-based X11 executable (recommended)
 games-roguelike/cataclysm-dda:sound - Enable SDL-based sound support
 games-roguelike/cataclysm-dda:xdg - Store saves and settings in $XDG_CONFIG_HOME/cataclysm-dda if enabled or ~/.cataclysm-dda otherwise
-games-roguelike/tsl:allegro - Build Allegro-driven GUI
-games-roguelike/tsl:ncurses - Build ncurses-driven CLI
+games-roguelike/tsl:allegro - Build Allegro-based GUI
+games-roguelike/tsl:ncurses - Build ncurses-based CLI
 media-fonts/powerline-fonts:3270 - Install Powerline-patched 3270 fonts
 media-fonts/powerline-fonts:anonymouspro - Install Powerline-patched Anonymous Pro fonts
 media-fonts/powerline-fonts:arimo - Install Powerline-patched Arimo fonts
