@@ -1,0 +1,12 @@
+DEFINED_PHASES=install postinst setup
+DESCRIPTION=Fantasy roguelike set in the far north during the late Iron-Age
+EAPI=7
+HOMEPAGE=http://www.unrealworld.fi
+INHERIT=readme.gentoo-r1
+KEYWORDS=~amd64 ~x86
+LICENSE=UNREAL-WORLD
+RDEPEND=acct-group/gamestat media-libs/libsdl2 media-libs/sdl2-image[jpeg,png] media-libs/sdl2-mixer[vorbis,wav] media-libs/sdl2-net sys-devel/gcc[cxx]
+SLOT=0
+SRC_URI=amd64? ( http://www.unrealworld.fi/dl/3.62/linux/deb-ubuntu/urw-3.62-x86_64-linux-gnu.tar.gz ) x86? ( http://www.unrealworld.fi/dl/3.62/linux/deb-ubuntu/urw-3.62-i686-linux-gnu.tar.gz )
+_eclasses_=readme.gentoo-r1	22ae82e140bdd95d17a34fd5fd733190
+_md5_=aaf818e8888fcd9517590684dc4fe32c
