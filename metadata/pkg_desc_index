@@ -44,6 +44,7 @@ dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
 dev-python/pyvista 0.30.1: Easier Pythonic interface to VTK
 dev-python/scooby 0.5.7: input/output for many mesh formats
 dev-python/snakeviz 0.4.1 9999: Web-based viewer for Python profiler output
+dev-python/sparse_dot_mkl 0.7.1: Python wrapper for Intel Math Kernel Library (MKL) matrix multiplication
 dev-python/svgpathtools 1.4.1 9999: Tools for manipulating and analyzing SVG Path objects and Bezier curves
 dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 test environments
 dev-python/transforms3d 0.3.1: Functions for 3D coordinate transformations
