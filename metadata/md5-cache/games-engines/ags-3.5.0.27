@@ -11,5 +11,5 @@ LICENSE=Artistic-2
 RDEPEND=>=media-libs/allegro-4.2.2:0 >=media-libs/dumb-0.9.3[allegro] >=media-libs/freetype-2.4.9:2 >=media-libs/libogg-1.3.0 >=media-libs/libtheora-1.1.1 >=x11-libs/libXext-1.3.3 >=x11-libs/libXxf86vm-1.1.4 midi? ( media-sound/timidity-eawpatches ) tremor? ( media-libs/tremor ) !tremor? ( >=media-libs/libvorbis-1.3.2 )
 SLOT=0
 SRC_URI=https://github.com/adventuregamestudio/ags/archive/v.3.5.0.27.tar.gz
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	8cdd85e169b835d518bc2fd59f780d8e	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	2d5b3f4b315094768576b6799e4f926e	readme.gentoo-r1	e51390d48521eb3d400db57d557b7530
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	6da6797255ab7fb848a02afa0cbc406f	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	f93c6ebbcd4a4e3e3f2328a13511b73a	readme.gentoo-r1	e51390d48521eb3d400db57d557b7530
 _md5_=750a378134549947145fbbf70eee402a
