@@ -73,23 +73,6 @@ media-fonts/powerline-fonts:symbolneu - Install Powerline-patched Symbol Neu fon
 media-fonts/powerline-fonts:terminus_pcf - Install Powerline-patched Terminus fonts in PCF format
 media-fonts/powerline-fonts:tinos - Install Powerline-patched Tinos fonts
 media-fonts/powerline-fonts:ubuntumono - Install Powerline-patched Ubuntu Mono fonts
-media-libs/libsdl:audio - Support audio devices (strongly recommended!)
-media-libs/libsdl:feedback - Support tactile feedback (e.g., vibration) devices
-media-libs/libsdl:fusionsound - Enable FusionSound audio support
-media-libs/libsdl:gles - Enable OpenGL ES video support
-media-libs/libsdl:joystick - Support joystick devices
-media-libs/libsdl:openglhq - Enable Opengl-HQ video support
-media-libs/libsdl:ps3 - Build the PS3 video driver
-media-libs/libsdl:tslib - Enable tslib-based touchscreen device support
-media-libs/libsdl:video - Support video devices (strongly recommended!)
-media-libs/libsdl:xcursor - Enable Xcursor-based cursor theme support
-media-libs/libsdl:xinput - Enable xinput-based touchscreen and multiple input device support (recommended)
-media-libs/libsdl:xrandr - Enable XRandR-based resolution switching (recommended)
-media-libs/libsdl:xvidmode - Enable XVidMode-based resolution switching (not recommended)
-media-libs/sdl-sound:midi - Enable MIDI audio file support
-media-libs/sdl-sound:mp3 - Enable MP3 audio file support via "mpg123"
-media-libs/sdl-sound:physfs - Enable archive extraction support via physfs (recommended)
-media-libs/sdl-sound:wav - Enable WAV audio file support
 media-sound/deadbeef:aac - Advanced Audio Coding (AAC) plugin
 media-sound/deadbeef:adplug - Adplug plugin
 media-sound/deadbeef:alac - Apple Lossless Audio Codec (ALAC) plugin
