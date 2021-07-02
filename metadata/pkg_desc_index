@@ -29,6 +29,8 @@ dev-python/base58 1.0.3 9999: Base58 implementation compatible with what is used
 dev-python/beartype 0.7.1 9999: Unbearably fast O(1) runtime type checking in pure Python
 dev-python/bencode_py 2.1.0 9999: Simple bencode parser
 dev-python/coincurve 12.0.0 9999: Easy interface to the Bitcoin data structures and protocol
+dev-python/cq-pywrap 7.4: C++ binding generator based on libclang and pybind11
+dev-python/cymbal 1.0.0: Add functionality missing from the python libclang bindings
 dev-python/dropbox-sdk 9.4.0 9999: Python SDK for Dropbox API v2
 dev-python/fastecdsa 1.7.4 9999: Python library for fast elliptic curve crypto
 dev-python/fastrlock 0.6: Fast RLock implementation for CPython
@@ -42,6 +44,7 @@ dev-python/pymsgbox 1.0.9: Cross-platform, pure-Python, JavaScript-like message 
 dev-python/python-bitcoinlib 0.10.2 9999: Easy interface to the Bitcoin data structures and protocol
 dev-python/python-engineio 3.11.2 9999: Python Engine.IO server and client
 dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
+dev-python/schema 0.7.4: Schema validation just got Pythonic
 dev-python/snakeviz 0.4.1 9999: Web-based viewer for Python profiler output
 dev-python/sparse_dot_mkl 0.7.1: Python wrapper for Intel Math Kernel Library (MKL) matrix multiplication
 dev-python/svgpathtools 1.4.1 9999: Tools for manipulating and analyzing SVG Path objects and Bezier curves
