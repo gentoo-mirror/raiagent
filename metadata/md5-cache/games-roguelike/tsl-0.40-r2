@@ -13,4 +13,4 @@ REQUIRED_USE=|| ( allegro ncurses )
 SLOT=0
 SRC_URI=http://www.happyponyland.net/files/tsl-0.40.tar.gz
 _eclasses_=readme.gentoo-r1	e51390d48521eb3d400db57d557b7530
-_md5_=2d936cf245fc6a1edc1f1e53b977e9cf
+_md5_=bcfe1a1e4123ad48ad5692d764553edc
