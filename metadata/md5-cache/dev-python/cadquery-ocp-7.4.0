@@ -1,5 +1,5 @@
 BDEPEND=>=dev-util/cmake-3.16
-DEFINED_PHASES=compile configure install prepare setup
+DEFINED_PHASES=compile configure install prepare setup test
 DEPEND=~sci-libs/opencascade-7.4.0[tbb,vtk] ~dev-python/cadquery-pywrap-7.4.0[python_targets_python3_8(-)?,python_targets_python3_9(-)?] !!sys-devel/llvm:0
 DESCRIPTION=Python wrapper for OCCT generated using pywrap
 EAPI=7
@@ -12,4 +12,4 @@ RDEPEND=~sci-libs/opencascade-7.4.0[tbb,vtk]
 SLOT=0
 SRC_URI=https://github.com/CadQuery/OCP/archive/refs/tags/7.4.0.tar.gz -> cadquery-ocp-7.4.0.tar.gz
 _eclasses_=llvm	e00745e3b8d63dc13bfe5a2d7310ee6b	multiprocessing	61c959fc55c15c00bbb1079d6a71370b	multibuild	05a584848db4901c97fcd94ae7cc3a97	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	python-utils-r1	2f5967e7ced9abfa71ff7b0ea8d61b3a	python-r1	e20b80360497e6215aed0dd4ca7d6bad
-_md5_=63aaad165574fda9145bbbaed191a3ba
+_md5_=b4f76de8b8c792c077571d31f82a2893
