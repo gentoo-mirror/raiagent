@@ -3,6 +3,7 @@ acct-user/zeronet 0: User for the zeronet daemon
 app-misc/powerline 2.7 9999-r21: Python-based statusline/prompt utility
 app-vim/powerline-vim 2.7 9999-r1: Vim plugin for Python-based Powerline
 dev-libs/libsecp256k1 0.1_pre20190331: Optimized C library for EC operations on curve secp256k1
+dev-libs/lief 0.11.5: Library to instrument executable formats
 dev-perl/Compiler-Lexer 0.23: Lexical Analyzer for Perl5
 dev-perl/Config-Identity 0.0019: Load (and optionally decrypt via GnuPG) user/pass identity information
 dev-perl/Data-Record 0.02: "split" on steroids
@@ -28,7 +29,6 @@ dev-perl/Text-MicroTemplate 0.24: Micro template engine with Perl5 language
 dev-python/base58 1.0.3 9999: Base58 implementation compatible with what is used by the bitcoin network.
 dev-python/beartype 0.7.1 9999: Unbearably fast O(1) runtime type checking in pure Python
 dev-python/bencode_py 2.1.0 9999: Simple bencode parser
-dev-python/cadquery-ocp 7.4.0: Python wrapper for OCCT generated using pywrap
 dev-python/coincurve 12.0.0 9999: Easy interface to the Bitcoin data structures and protocol
 dev-python/dropbox-sdk 9.4.0 9999: Python SDK for Dropbox API v2
 dev-python/fastecdsa 1.7.4 9999: Python library for fast elliptic curve crypto

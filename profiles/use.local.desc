@@ -24,6 +24,7 @@ dev-libs/libsecp256k1:endomorphism - Enable endomorphism
 dev-libs/libsecp256k1:experimental - Allow experimental USE flags
 dev-libs/libsecp256k1:recovery - Enable ECDSA pubkey recovery module
 dev-libs/libsecp256k1:test_openssl - Enable OpenSSL comparison tests
+dev-libs/lief:c - install C API
 dev-python/coincurve:gmp - Enable GMP-based optimizations (recommended)
 dev-python/yamale:ruamel - Enable "ruamel.yaml"-based YAML 1.2 support
 dev-util/ctags:json - Support JSON parsing
