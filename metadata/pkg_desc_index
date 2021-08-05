@@ -3,7 +3,6 @@ acct-user/zeronet 0: User for the zeronet daemon
 app-misc/powerline 2.7 9999-r21: Python-based statusline/prompt utility
 app-vim/powerline-vim 2.7 9999-r1: Vim plugin for Python-based Powerline
 dev-libs/libsecp256k1 0.1_pre20190331: Optimized C library for EC operations on curve secp256k1
-dev-libs/lief 0.11.5: Library to instrument executable formats
 dev-perl/Compiler-Lexer 0.23: Lexical Analyzer for Perl5
 dev-perl/Config-Identity 0.0019: Load (and optionally decrypt via GnuPG) user/pass identity information
 dev-perl/Data-Record 0.02: "split" on steroids
@@ -47,6 +46,7 @@ dev-python/sparse_dot_mkl 0.7.1: Python wrapper for Intel Math Kernel Library (M
 dev-python/svgpathtools 1.4.1 9999: Tools for manipulating and analyzing SVG Path objects and Bezier curves
 dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 test environments
 dev-python/typeguard 2.9.1 9999: Python library providing run-time type checking for functions
+dev-python/typish 1.9.2: Python functions for thorough checks on types
 dev-python/yamale 1.7.0 9999: Python YAML schema validator
 dev-util/ctags 99999999: Universal Ctags: a maintained ctags implementation
 dev-vcs/git-remote-dropbox 1.1.1 9999: Transparent bridge between Git and Dropbox
