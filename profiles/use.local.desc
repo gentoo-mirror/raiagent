@@ -25,6 +25,9 @@ dev-libs/libsecp256k1:experimental - Allow experimental USE flags
 dev-libs/libsecp256k1:recovery - Enable ECDSA pubkey recovery module
 dev-libs/libsecp256k1:test_openssl - Enable OpenSSL comparison tests
 dev-python/coincurve:gmp - Enable GMP-based optimizations (recommended)
+dev-python/ezdxf:cython - Build Cython-based C extensions
+dev-python/ezdxf:matplotlib - Add support for dev-python/matplotlib
+dev-python/ezdxf:qt5 - Add support for dev-python/PyQt5
 dev-python/yamale:ruamel - Enable "ruamel.yaml"-based YAML 1.2 support
 dev-util/ctags:json - Support JSON parsing
 dev-util/ctags:seccomp - Support security-enhanced sandbox submode
