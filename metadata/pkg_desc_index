@@ -59,7 +59,6 @@ games-roguelike/unreal-world 3.62: Fantasy roguelike set in the far north during
 games-util/ips-pl 0.01-r1: Perl script which is designed to apply an IPS patch to a ROM
 media-fonts/powerline-fonts 9999-r2: Monospaced fonts pre-patched with Powerline symbols
 media-fonts/powerline-symbols 9999: OpenType Unicode font containing only Powerline-specific symbols.
-media-libs/openglide 9999-r1: Glide to OpenGL wrapper
 media-sound/munt 1.5.0 2.0.4 2.1.0 9999: Software synthesiser emulating pre-GM MIDI (e.g., Roland MT-32)
 media-sound/vgmplay 0.40.7 0.40.8 0.40.9 9999: Video game music (VGM) file command-line player
 sci-biology/betse 1.1.1 9999-r1: Bioelectric Tissue Simulation Engine (BETSE)
