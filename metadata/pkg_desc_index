@@ -26,7 +26,7 @@ dev-perl/Test-MinimumVersion-Fast 0.04: does your code require newer perl than y
 dev-perl/Test-PAUSE-Permissions 0.07: tests module permissions in your distribution
 dev-perl/Text-MicroTemplate 0.24: Micro template engine with Perl5 language
 dev-python/base58 1.0.3 9999: Base58 implementation compatible with what is used by the bitcoin network.
-dev-python/beartype 0.8.1 9999: Unbearably fast O(1) runtime type checking in pure Python
+dev-python/beartype 0.9.0 9999: Unbearably fast O(1) runtime type checking in pure Python
 dev-python/bencode_py 2.1.0 9999: Simple bencode parser
 dev-python/coincurve 12.0.0 9999: Easy interface to the Bitcoin data structures and protocol
 dev-python/dropbox-sdk 9.4.0 9999: Python SDK for Dropbox API v2
@@ -36,6 +36,7 @@ dev-python/flask-socketio 4.2.1 9999: Socket.IO integration for Flask applicatio
 dev-python/instant-rst 0.9.9.1 9999: Lightweight web server for previewing reStructuredText documents
 dev-python/maxminddb 1.5.1 9999: Python MaxMind DB reader extension
 dev-python/pprofile 1.11.0 9999: Line-granularity thread-aware pure-Python profiler
+dev-python/pyEIT 9999: Python-based toolkit for Electrical Impedance Tomography
 dev-python/pyelliptic 1.5.6 9999: Deprecated Python OpenSSL wrapper
 dev-python/pymsgbox 1.0.9: Cross-platform, pure-Python, JavaScript-like message boxes
 dev-python/python-bitcoinlib 0.10.2 9999: Easy interface to the Bitcoin data structures and protocol
