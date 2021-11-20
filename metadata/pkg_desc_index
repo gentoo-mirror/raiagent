@@ -43,10 +43,11 @@ dev-python/pymsgbox 1.0.9: Cross-platform, pure-Python, JavaScript-like message 
 dev-python/python-bitcoinlib 0.10.2 9999: Easy interface to the Bitcoin data structures and protocol
 dev-python/python-engineio 3.11.2 9999: Python Engine.IO server and client
 dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
-dev-python/snakeviz 0.4.1 9999: Web-based viewer for Python profiler output
+dev-python/snakeviz 2.1.1 9999: In-browser Python profile viewer
 dev-python/sparse_dot_mkl 0.7.1: Python wrapper for Intel Math Kernel Library (MKL) matrix multiplication
 dev-python/svgpathtools 1.4.1 9999: Tools for manipulating and analyzing SVG Path objects and Bezier curves
 dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 test environments
+dev-python/tuna 0.5.10 9999: In-browser Python profile viewer
 dev-python/typeguard 2.9.1 9999: Python library providing run-time type checking for functions
 dev-python/yamale 1.7.0 9999: Python YAML schema validator
 dev-util/ctags 99999999: Universal Ctags: a maintained ctags implementation
