@@ -3,22 +3,21 @@
 
 EAPI=8
 
-PYTHON_COMPAT=( python3_{8..10} )
+PYTHON_COMPAT=( python3_{8..10} pypy3 )
 
-DISTUTILS_USE_SETUPTOOLS=rdepend
+DISTUTILS_USE_SETUPTOOLS=pyproject.toml
 
 inherit distutils-r1
 
 DESCRIPTION="In-browser Python profile viewer"
-HOMEPAGE="https://jiffyclub.github.io/snakeviz"
+HOMEPAGE="https://github.com/nschloe/tuna"
 
-LICENSE="BSD"
+LICENSE="GPL-3"
 SLOT="0"
 IUSE=""
 REQUIRED_USE="${PYTHON_REQUIRED_USE}"
 
-RDEPEND=">=www-servers/tornado-2.0[${PYTHON_USEDEP}]"
-DEPEND="${RDEPEND}"
+BDEPEND="dev-python/wheel[${PYTHON_USEDEP}]"
 
 #FIXME: Add a new "doc" USE flag that, when enabled, generates and installs the
 #HTML-based documentation templated as "smartypants"-driven Markdown in the
@@ -28,7 +27,7 @@ DEPEND="${RDEPEND}"
 if [[ ${PV} == 9999 ]]; then
 	inherit git-r3
 
-	EGIT_REPO_URI="https://github.com/jiffyclub/snakeviz"
+	EGIT_REPO_URI="https://github.com/nschloe/tuna"
 	EGIT_BRANCH="master"
 	SRC_URI=""
 	KEYWORDS=""

@@ -8,7 +8,7 @@
 	</maintainer>
 	<stabilize-allarches/>
 	<upstream>
-		<remote-id type="pypi">snakeviz</remote-id>
-		<remote-id type="github">jiffyclub/snakeviz</remote-id>
+		<remote-id type="pypi">tuna</remote-id>
+		<remote-id type="github">nschloe/tuna</remote-id>
 	</upstream>
 </pkgmetadata>
