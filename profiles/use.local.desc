@@ -47,6 +47,11 @@ games-roguelike/cataclysm-dda:sound - Enable SDL-based sound support
 games-roguelike/cataclysm-dda:xdg - Store saves and settings in $XDG_CONFIG_HOME/cataclysm-dda if enabled or ~/.cataclysm-dda otherwise
 games-roguelike/tsl:allegro - Build Allegro-based GUI
 games-roguelike/tsl:ncurses - Build ncurses-based CLI
+games-util/antimicrox:X - Enable support for X.org [recommended]
+games-util/antimicrox:doc - Build documentation with doxygen
+games-util/antimicrox:udev - Install uinput-based udev rules
+games-util/antimicrox:uinput - Enable support for uinput (x11-libs/libXi) [recommended]
+games-util/antimicrox:xtest - Enable support for XTest (x11-libs/libXtst)
 media-fonts/powerline-fonts:3270 - Install Powerline-patched 3270 fonts
 media-fonts/powerline-fonts:anonymouspro - Install Powerline-patched Anonymous Pro fonts
 media-fonts/powerline-fonts:arimo - Install Powerline-patched Arimo fonts
