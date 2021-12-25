@@ -12,5 +12,5 @@ PROPERTIES=live
 RDEPEND=>=dev-qt/qtgui-5.8.0:5 >=dev-qt/qtnetwork-5.8.0:5 >=dev-qt/qtwidgets-5.8.0:5 >=dev-qt/qtcore-5.8.0:5 >=media-libs/libsdl2-2.0.6[X=,joystick] udev? ( virtual/udev ) X? ( x11-libs/libX11 uinput? ( x11-libs/libXi ) xtest? ( x11-libs/libXtst ) )
 REQUIRED_USE=udev? ( uinput ) uinput? ( X ) xtest? ( X )
 SLOT=0
-_eclasses_=toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	4b66d835ec72e021e359bb81eacfe988	flag-o-matic	d5e1306543bc457213f68bb18f830d14	multiprocessing	61c959fc55c15c00bbb1079d6a71370b	ninja-utils	a4dab848a4490e8e48cf0baab3e61bc2	xdg-utils	4f29a8b760a594a212abe9c2ba957c31	cmake	11fee991ab428a3370e5c20fa8231fb6	xdg	6024fbc93167fad782e2032933654857	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_eclasses_=toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	8a0248f83ae77f945d376ff4a7953257	flag-o-matic	d5e1306543bc457213f68bb18f830d14	multiprocessing	61c959fc55c15c00bbb1079d6a71370b	ninja-utils	a4dab848a4490e8e48cf0baab3e61bc2	xdg-utils	4f29a8b760a594a212abe9c2ba957c31	cmake	11fee991ab428a3370e5c20fa8231fb6	xdg	6024fbc93167fad782e2032933654857	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
 _md5_=a64bc7bdbd5c4645409d1f9124085b9d
