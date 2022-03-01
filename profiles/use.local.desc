@@ -24,6 +24,13 @@ dev-libs/libsecp256k1:endomorphism - Enable endomorphism
 dev-libs/libsecp256k1:experimental - Allow experimental USE flags
 dev-libs/libsecp256k1:recovery - Enable ECDSA pubkey recovery module
 dev-libs/libsecp256k1:test_openssl - Enable OpenSSL comparison tests
+dev-python/Kivy:egl - Enable EGL support
+dev-python/Kivy:gles2 - Enable GLES2 support
+dev-python/Kivy:highlight - Enable syntax highlighting support via dev-python/pygments
+dev-python/Kivy:imaging - Enable image manipulation support via dev-python/pillow (recommended)
+dev-python/Kivy:pango - Enable support for x11-libs/pango
+dev-python/Kivy:pygame - Enable SDL2 support via dev-python/pygame
+dev-python/Kivy:rst - Enable reStructuredText (reST) support via dev-python/docutils
 dev-python/coincurve:gmp - Enable GMP-based optimizations (recommended)
 dev-python/pyeit:3d - Enable 3D mesh visualization
 dev-python/pyeit:thorax - Enable thoracic mesh building and reconstruction
