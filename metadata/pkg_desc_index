@@ -25,7 +25,7 @@ dev-perl/Test-Directory 0.051: Perl extension for maintaining test directories.
 dev-perl/Test-MinimumVersion-Fast 0.04: does your code require newer perl than you think?
 dev-perl/Test-PAUSE-Permissions 0.07: tests module permissions in your distribution
 dev-perl/Text-MicroTemplate 0.24: Micro template engine with Perl5 language
-dev-python/Kivy 2.1.0_rc3 9999: Open source UI framework written in Python
+dev-python/Kivy 2.1.0 9999: Open source UI framework written in Python
 dev-python/base58 1.0.3 9999: Base58 implementation compatible with what is used by the bitcoin network.
 dev-python/beartype 0.10.0 9999: Unbearably fast O(1) runtime type checking in pure Python
 dev-python/bencode_py 2.1.0 9999: Simple bencode parser
