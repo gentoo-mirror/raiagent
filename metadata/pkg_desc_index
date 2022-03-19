@@ -27,7 +27,7 @@ dev-perl/Test-PAUSE-Permissions 0.07: tests module permissions in your distribut
 dev-perl/Text-MicroTemplate 0.24: Micro template engine with Perl5 language
 dev-python/Kivy 2.1.0 9999: Open source UI framework written in Python
 dev-python/base58 1.0.3 9999: Base58 implementation compatible with what is used by the bitcoin network.
-dev-python/beartype 0.10.0 9999: Unbearably fast O(1) runtime type checking in pure Python
+dev-python/beartype 0.10.4 9999: Unbearably fast O(1) runtime type checking in pure Python
 dev-python/bencode_py 2.1.0 9999: Simple bencode parser
 dev-python/bleak 0.14.2 9999: Bluetooth Low Energy platform Agnostic Klient (BLEAK) for Python
 dev-python/coincurve 12.0.0 9999: Easy interface to the Bitcoin data structures and protocol
@@ -37,6 +37,7 @@ dev-python/fastecdsa 1.7.4 9999: Python library for fast elliptic curve crypto
 dev-python/fastrlock 0.6: Fast RLock implementation for CPython
 dev-python/flask-socketio 4.2.1 9999: Socket.IO integration for Flask applications
 dev-python/instant-rst 0.9.9.1 9999: Lightweight web server for previewing reStructuredText documents
+dev-python/kivymd 0.104.2 9999: Collection of Material Design-compliant widgets for use with Kivy
 dev-python/maxminddb 1.5.1 9999: Python MaxMind DB reader extension
 dev-python/mpremote 0.1.0: MicroPython remote control
 dev-python/pprofile 1.11.0 9999: Line-granularity thread-aware pure-Python profiler
