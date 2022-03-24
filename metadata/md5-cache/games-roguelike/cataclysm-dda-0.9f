@@ -13,5 +13,5 @@ RDEPEND=app-arch/bzip2 sys-libs/glibc sys-libs/zlib virtual/libc astyle? ( dev-u
 REQUIRED_USE=|| ( ncurses sdl ) pch? ( ^^ ( ncurses sdl ) ) sound? ( sdl )
 SLOT=0
 SRC_URI=https://github.com/CleverRaven/Cataclysm-DDA/archive/0.F.tar.gz -> cataclysm-dda-0.9f.tar.gz
-_eclasses_=xdg-utils	4f29a8b760a594a212abe9c2ba957c31
+_eclasses_=xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e
 _md5_=4d8840d822e4c24ffebe647eb12f8f10
