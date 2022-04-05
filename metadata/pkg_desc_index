@@ -30,7 +30,7 @@ dev-python/base58 1.0.3 9999: Base58 implementation compatible with what is used
 dev-python/beartype 0.10.4 9999: Unbearably fast O(1) runtime type checking in pure Python
 dev-python/bencode_py 2.1.0 9999: Simple bencode parser
 dev-python/bleak 0.14.2 9999: Bluetooth Low Energy platform Agnostic Klient (BLEAK) for Python
-dev-python/buildozer 1.3.0 9999: Generic Python packager for Android and iOS
+dev-python/buildozer 1.3.0 9999: Kivy-friendly tool for packaging Python to mobile and desktop
 dev-python/coincurve 12.0.0 9999: Easy interface to the Bitcoin data structures and protocol
 dev-python/dbus_next 0.2.3 9999: The next great DBus library for Python with asyncio support
 dev-python/dropbox-sdk 9.4.0 9999: Python SDK for Dropbox API v2
@@ -48,6 +48,7 @@ dev-python/pyelliptic 1.5.6 9999: Deprecated Python OpenSSL wrapper
 dev-python/pymsgbox 1.0.9: Cross-platform, pure-Python, JavaScript-like message boxes
 dev-python/python-bitcoinlib 0.10.2 9999: Easy interface to the Bitcoin data structures and protocol
 dev-python/python-engineio 3.11.2 9999: Python Engine.IO server and client
+dev-python/python-for-android 2022.3.13 9999: Kivy-friendly tool for packaging Python to Android
 dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
 dev-python/rshell 0.0.31 9999: Remote Shell for MicroPython
 dev-python/snakeviz 2.1.1 9999: In-browser Python profile viewer
