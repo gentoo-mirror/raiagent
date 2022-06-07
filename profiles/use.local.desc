@@ -26,7 +26,6 @@ dev-libs/libsecp256k1:recovery - Enable ECDSA pubkey recovery module
 dev-libs/libsecp256k1:test_openssl - Enable OpenSSL comparison tests
 dev-python/Kivy:buildozer - Cross-compile Kivy apps via dev-python/buildozer (recommended)
 dev-python/Kivy:cython - Enable Kivy C extensions via dev-python/cython (recommended)
-dev-python/Kivy:egl - Enable EGL support
 dev-python/Kivy:examples - Build and install example Kivy apps
 dev-python/Kivy:gles2 - Enable GLES2 support
 dev-python/Kivy:highlight - Enable syntax highlighting support via dev-python/pygments
