@@ -26,12 +26,12 @@ dev-perl/Test-MinimumVersion-Fast 0.04: does your code require newer perl than y
 dev-perl/Test-PAUSE-Permissions 0.07: tests module permissions in your distribution
 dev-perl/Text-MicroTemplate 0.24: Micro template engine with Perl5 language
 dev-python/Kivy 2.1.0 9999: Open source UI framework written in Python
+dev-python/Kivy-Garden 0.1.5 9999: Kivy garden installation script
 dev-python/base58 1.0.3 9999: Base58 implementation compatible with what is used by the bitcoin network.
 dev-python/beartype 0.10.4 9999: Unbearably fast O(1) runtime type checking in pure Python
 dev-python/bencode_py 2.1.0 9999: Simple bencode parser
 dev-python/bleak 0.14.3 9999: Bluetooth Low Energy platform Agnostic Klient (BLEAK) for Python
 dev-python/buildozer 1.3.0 9999: Kivy-friendly tool for packaging Python to mobile and desktop
-dev-python/coincurve 12.0.0 9999: Easy interface to the Bitcoin data structures and protocol
 dev-python/dbus_next 0.2.3 9999: The next great DBus library for Python with asyncio support
 dev-python/dropbox-sdk 9.4.0 9999: Python SDK for Dropbox API v2
 dev-python/fastecdsa 1.7.4 9999: Python library for fast elliptic curve crypto
