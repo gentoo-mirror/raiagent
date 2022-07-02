@@ -3,28 +3,6 @@ acct-user/zeronet 0: User for the zeronet daemon
 app-misc/powerline 2.7 9999-r21: Python-based statusline/prompt utility
 app-vim/powerline-vim 2.7 9999-r1: Vim plugin for Python-based Powerline
 dev-libs/libsecp256k1 0.1_pre20190331: Optimized C library for EC operations on curve secp256k1
-dev-perl/Compiler-Lexer 0.23: Lexical Analyzer for Perl5
-dev-perl/Config-Identity 0.0019: Load (and optionally decrypt via GnuPG) user/pass identity information
-dev-perl/Data-Record 0.02: "split" on steroids
-dev-perl/Data-Section-Simple 0.07: Read data from __DATA__
-dev-perl/ExtUtils-MakeMaker-CPANfile 0.09: cpanfile support for EUMM
-dev-perl/Minilla 3.1.9: CPAN module authoring tool
-dev-perl/Module-CPANfile 1.1004: Parse cpanfile
-dev-perl/MooX-Locale-Passthrough 0.001: provide API used in translator modules without translating
-dev-perl/MooX-Options 4.103: Explicit Options eXtension for Object Class
-dev-perl/PAUSE-Permissions 0.17: interface to PAUSE's module permissions file (06perms.txt)
-dev-perl/PAUSE-Permissions-MetaCPAN 0.001: get module permissions from MetaCPAN API
-dev-perl/Parse-LocalDistribution 0.19: parses local .pm files as PAUSE does
-dev-perl/Parse-PMFile 0.42: parses .pm file as PAUSE does
-dev-perl/Perl-MinimumVersion-Fast 0.18: Find a minimum required version of perl for Perl code
-dev-perl/Spellunker 0.4.0: check for spelling errors in POD files
-dev-perl/TOML 0.97: Parser for Tom's Obvious, Minimal Language.
-dev-perl/TOML-Parser 0.91: simple toml parser
-dev-perl/Test-Deep-Fuzzy 0.01: fuzzy number comparison with Test::Deep
-dev-perl/Test-Directory 0.051: Perl extension for maintaining test directories.
-dev-perl/Test-MinimumVersion-Fast 0.04: does your code require newer perl than you think?
-dev-perl/Test-PAUSE-Permissions 0.07: tests module permissions in your distribution
-dev-perl/Text-MicroTemplate 0.24: Micro template engine with Perl5 language
 dev-python/Kivy 2.1.0 9999: Open source UI framework written in Python
 dev-python/Kivy-Garden 0.1.5 9999: Kivy garden installation script
 dev-python/base58 1.0.3 9999: Base58 implementation compatible with what is used by the bitcoin network.
