@@ -8,7 +8,7 @@ dev-python/Kivy-Garden 0.1.5 9999: Kivy garden installation script
 dev-python/base58 1.0.3 9999: Base58 implementation compatible with what is used by the bitcoin network.
 dev-python/beartype 0.10.4 9999: Unbearably fast O(1) runtime type checking in pure Python
 dev-python/bencode_py 2.1.0 9999: Simple bencode parser
-dev-python/bleak 0.14.3 9999: Bluetooth Low Energy platform Agnostic Klient (BLEAK) for Python
+dev-python/bleak 0.15.0 9999: Bluetooth Low Energy platform Agnostic Klient (BLEAK) for Python
 dev-python/buildozer 1.3.0 9999: Kivy-friendly tool for packaging Python to mobile and desktop
 dev-python/dbus_next 0.2.3 9999: The next great DBus library for Python with asyncio support
 dev-python/dropbox-sdk 9.4.0 9999: Python SDK for Dropbox API v2
