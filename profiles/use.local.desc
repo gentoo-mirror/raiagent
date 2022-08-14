@@ -91,16 +91,6 @@ media-fonts/powerline-fonts:symbolneu - Install Powerline-patched Symbol Neu fon
 media-fonts/powerline-fonts:terminus_pcf - Install Powerline-patched Terminus fonts in PCF format
 media-fonts/powerline-fonts:tinos - Install Powerline-patched Tinos fonts
 media-fonts/powerline-fonts:ubuntumono - Install Powerline-patched Ubuntu Mono fonts
-media-sound/munt:alsa - Build Qt-based ALSA driver
-media-sound/munt:c - Build C-compatible API
-media-sound/munt:cpp - Expose C++ class ABI
-media-sound/munt:libsamplerate - Resample audio with Secret Rabbit Code (SRC)
-media-sound/munt:libsoxr - Resample audio with SoX Resampler (SoXR) (recommended)
-media-sound/munt:portaudio - Build Qt-based PortAudio driver
-media-sound/munt:pulseaudio - Build Qt-based PulseAudio driver
-media-sound/munt:qt4 - Build Qt 4 driver
-media-sound/munt:qt5 - Build Qt 5 driver (recommended)
-media-sound/munt:smf2wav - Build "smf2wav" conversion utility
 media-sound/vgmplay:opl - Enable playback on obsolete OPL hardware (AdLib, SoundBlaster)
 sci-biology/betse:ffmpeg - Support FFmpeg- or Libav-based animation encoding
 sci-biology/betse:graph - Support gene regulatory and biochemical reaction networks
