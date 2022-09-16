@@ -5,7 +5,8 @@ app-vim/powerline-vim 2.7 9999-r1: Vim plugin for Python-based Powerline
 dev-libs/libsecp256k1 0.1_pre20190331: Optimized C library for EC operations on curve secp256k1
 dev-python/Kivy 2.1.0 9999: Open source UI framework written in Python
 dev-python/Kivy-Garden 0.1.5 9999: Kivy garden installation script
-dev-python/base58 1.0.3 9999: Base58 implementation compatible with what is used by the bitcoin network.
+dev-python/altair 4.2.0 9999: Declarative statistical visualization library
+dev-python/base58 2.1.1 9999: Base58 and Base58Check implementation
 dev-python/beartype 0.10.4 9999: Unbearably fast O(1) runtime type checking in pure Python
 dev-python/bencode_py 2.1.0 9999: Simple bencode parser
 dev-python/bleak 0.16.0 9999: Bluetooth Low Energy platform Agnostic Klient (BLEAK) for Python
