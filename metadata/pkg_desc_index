@@ -2,6 +2,8 @@ acct-group/zeronet 0: Group for the zeronet daemon
 acct-user/zeronet 0: User for the zeronet daemon
 app-misc/powerline 2.7 9999-r21: Python-based statusline/prompt utility
 app-vim/powerline-vim 2.7 9999-r1: Vim plugin for Python-based Powerline
+dev-cpp/xsimd 9.0.1: C++ wrappers for SIMD intrinsics and math implementations
+dev-libs/apache-arrow 9.0.0: A cross-language development platform for in-memory data.
 dev-libs/libsecp256k1 0.1_pre20190331: Optimized C library for EC operations on curve secp256k1
 dev-python/Kivy 2.1.0 9999: Open source UI framework written in Python
 dev-python/Kivy-Garden 0.1.5 9999: Kivy garden installation script
@@ -21,6 +23,8 @@ dev-python/maxminddb 1.5.1 9999: Python MaxMind DB reader extension
 dev-python/mpremote 0.1.0: MicroPython remote control
 dev-python/pprofile 1.11.0 9999: Line-granularity thread-aware pure-Python profiler
 dev-python/py-dbar 0.2.8: Pythonic D-bar Algorithm for EIT
+dev-python/pyarrow 9.0.0: Python library for Apache Arrow
+dev-python/pydeck 0.7.1: Large-scale interactive data visualization
 dev-python/pyeit 9999: Python-based toolkit for Electrical Impedance Tomography
 dev-python/pyelliptic 1.5.6 9999: Deprecated Python OpenSSL wrapper
 dev-python/pymsgbox 1.0.9: Cross-platform, pure-Python, JavaScript-like message boxes

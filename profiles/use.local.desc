@@ -18,6 +18,7 @@ app-misc/powerline:rc - Install rc shell support files
 app-misc/powerline:tmux - Install tmux support files
 app-misc/powerline:vim - Install vim support files
 app-misc/powerline:zsh - Install zsh support files
+dev-libs/apache-arrow:parquet - Build with Parquet data format support
 dev-libs/libsecp256k1:asm - Enable x86_64 assembly optimisation
 dev-libs/libsecp256k1:ecdh - Enable ECDH shared secret computation
 dev-libs/libsecp256k1:endomorphism - Enable endomorphism
@@ -36,6 +37,7 @@ dev-python/Kivy:pytest - Enable downstream "kivy.tests" Kivy app testing via dev
 dev-python/Kivy:rst - Enable reStructuredText (reST) support via dev-python/docutils
 dev-python/buildozer:android - Package for Android via dev-python/python-for-android (recommended)
 dev-python/buildozer:ios - Package for iOS via dev-python/kivy-ios (currently broken)
+dev-python/pyarrow:parquet - Build with Parquet data format support
 dev-python/pyeit:3d - Enable 3D mesh visualization
 dev-python/pyeit:thorax - Enable thoracic mesh building and reconstruction
 dev-python/rshell:rsync - Enable "rshell rsync" subcommand (recommended)
