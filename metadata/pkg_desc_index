@@ -27,6 +27,7 @@ dev-python/pyarrow 9.0.0: Python library for Apache Arrow
 dev-python/pydeck 0.7.1: Large-scale interactive data visualization
 dev-python/pyeit 9999: Python-based toolkit for Electrical Impedance Tomography
 dev-python/pyelliptic 1.5.6 9999: Deprecated Python OpenSSL wrapper
+dev-python/pympler 1.0.1 9999: Measure, monitor and analyze the memory behavior of Python objects
 dev-python/pymsgbox 1.0.9: Cross-platform, pure-Python, JavaScript-like message boxes
 dev-python/pyright 1.1.266: Static type checker for Python
 dev-python/python-bitcoinlib 0.10.2 9999: Easy interface to the Bitcoin data structures and protocol
@@ -36,6 +37,7 @@ dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
 dev-python/rshell 0.0.31 9999: Remote Shell for MicroPython
 dev-python/snakeviz 2.1.1 9999: In-browser Python profile viewer
 dev-python/sparse_dot_mkl 0.7.1: Python wrapper for Intel Math Kernel Library (MKL) matrix multiplication
+dev-python/streamlit 1.12.2 9999: Build and share machine learning and data science web apps
 dev-python/svgpathtools 1.4.1 9999: Tools for manipulating and analyzing SVG Path objects and Bezier curves
 dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 test environments
 dev-python/tuna 0.5.10 9999: In-browser Python profile viewer
