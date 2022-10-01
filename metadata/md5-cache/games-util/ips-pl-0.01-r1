@@ -10,5 +10,5 @@ LICENSE=GPL-2
 RDEPEND=dev-lang/perl:=
 SLOT=0
 SRC_URI=http://www.zophar.net/fileuploads/1/3142ixteo/ips.txt -> ips-pl-0.01
-_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	perl-functions	c3fca037246e877693badea0df3b0ef8	perl-module	4f80b00fab088c2f6d68edb55a6c4bf4
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	perl-functions	c3fca037246e877693badea0df3b0ef8	perl-module	21a0cb6221498d0e7894bdf445b79887
 _md5_=fe28a1bbf988d0653b04c1386c0d9317
