@@ -20,7 +20,6 @@ dev-python/flask-socketio 4.2.1 9999: Socket.IO integration for Flask applicatio
 dev-python/instant-rst 0.9.9.1 9999: Lightweight web server for previewing reStructuredText documents
 dev-python/kivymd 1.0.2 9999: Collection of Material Design-compliant widgets for use with Kivy
 dev-python/maxminddb 1.5.1 9999: Python MaxMind DB reader extension
-dev-python/mpremote 0.1.0: MicroPython remote control
 dev-python/pprofile 1.11.0 9999: Line-granularity thread-aware pure-Python profiler
 dev-python/py-dbar 0.2.8: Pythonic D-bar Algorithm for EIT
 dev-python/pyarrow 9.0.0: Python library for Apache Arrow
@@ -40,7 +39,6 @@ dev-python/sparse_dot_mkl 0.7.1: Python wrapper for Intel Math Kernel Library (M
 dev-python/streamlit 1.13.0 9999: Build and share machine learning and data science web apps
 dev-python/svgpathtools 1.4.1 9999: Tools for manipulating and analyzing SVG Path objects and Bezier curves
 dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 test environments
-dev-python/tuna 0.5.10 9999: In-browser Python profile viewer
 dev-python/typeguard 2.9.1 9999: Python library providing run-time type checking for functions
 dev-python/yamale 1.7.0 9999: Python YAML schema validator
 dev-util/android-ndk 24: Open Handset Alliance's Android NDK (Native Dev Kit)
