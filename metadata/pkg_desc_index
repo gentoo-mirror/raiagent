@@ -19,7 +19,7 @@ dev-python/fastecdsa 1.7.4 9999: Python library for fast elliptic curve crypto
 dev-python/fastrlock 0.6: Fast RLock implementation for CPython
 dev-python/flask-socketio 4.2.1 9999: Socket.IO integration for Flask applications
 dev-python/instant-rst 0.9.9.1 9999: Lightweight web server for previewing reStructuredText documents
-dev-python/kivymd 1.0.2 9999: Collection of Material Design-compliant widgets for use with Kivy
+dev-python/kivymd 1.1.1 9999: Collection of Material Design-compliant widgets for use with Kivy
 dev-python/maxminddb 1.5.1 9999: Python MaxMind DB reader extension
 dev-python/mpremote 0.4.0: MicroPython remote control
 dev-python/pprofile 1.11.0 9999: Line-granularity thread-aware pure-Python profiler
