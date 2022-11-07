@@ -12,5 +12,5 @@ PROPERTIES=live
 RDEPEND=app-arch/bzip2 sys-libs/glibc sys-libs/zlib virtual/libc astyle? ( dev-util/astyle ) ncurses? ( >=sys-libs/ncurses-6.0:0 ) nls? ( sys-devel/gettext:0[nls] ) sdl? ( media-libs/freetype:2 media-libs/libsdl2:0 media-libs/sdl2-image:0[jpeg,png] media-libs/sdl2-ttf:0 ) sound? ( media-libs/sdl2-mixer:0 )
 REQUIRED_USE=|| ( ncurses sdl ) pch? ( ^^ ( ncurses sdl ) ) sound? ( sdl )
 SLOT=0
-_eclasses_=xdg-utils	ac0e315a3688929e34ac75b139e7349a	git-r3	b9ac6f96d2a88edb5b351df634dc5e53
+_eclasses_=xdg-utils	ac0e315a3688929e34ac75b139e7349a	git-r3	2347f8fe2d392b2a091191f94be37e6f
 _md5_=4d8840d822e4c24ffebe647eb12f8f10
