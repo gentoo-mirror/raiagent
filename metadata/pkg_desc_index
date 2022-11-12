@@ -37,7 +37,7 @@ dev-python/python-for-android 2022.3.13 9999: Kivy-friendly tool for packaging P
 dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
 dev-python/rshell 0.0.31 9999: Remote Shell for MicroPython
 dev-python/sparse_dot_mkl 0.7.1: Python wrapper for Intel Math Kernel Library (MKL) matrix multiplication
-dev-python/streamlit 1.14.0 9999: Build and share machine learning and data science web apps
+dev-python/streamlit 1.14.1 9999: Build and share machine learning and data science web apps
 dev-python/svgpathtools 1.4.1 9999: Tools for manipulating and analyzing SVG Path objects and Bezier curves
 dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 test environments
 dev-python/tuna 0.5.11 9999: In-browser Python profile viewer
