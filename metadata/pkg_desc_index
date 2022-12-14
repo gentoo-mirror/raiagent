@@ -23,7 +23,6 @@ dev-python/instant-rst 0.9.9.1 9999: Lightweight web server for previewing reStr
 dev-python/kivymd 1.1.1 9999: Collection of Material Design-compliant widgets for use with Kivy
 dev-python/maxminddb 1.5.1 9999: Python MaxMind DB reader extension
 dev-python/mpremote 0.4.0: MicroPython remote control
-dev-python/pprofile 1.11.0 9999: Line-granularity thread-aware pure-Python profiler
 dev-python/py-dbar 0.2.8: Pythonic D-bar Algorithm for EIT
 dev-python/pyarrow 9.0.0: Python library for Apache Arrow
 dev-python/pydeck 0.7.1: Large-scale interactive data visualization
