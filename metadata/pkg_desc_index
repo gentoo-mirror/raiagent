@@ -4,7 +4,7 @@ app-misc/mangal 4.0.4 9999: The most advanced (yet simple) CLI manga downloader
 app-misc/powerline 2.7 9999-r21: Python-based statusline/prompt utility
 app-vim/powerline-vim 2.7 9999-r1: Vim plugin for Python-based Powerline
 dev-cpp/xsimd 9.0.1: C++ wrappers for SIMD intrinsics and math implementations
-dev-libs/apache-arrow 9.0.0: A cross-language development platform for in-memory data.
+dev-libs/apache-arrow 9.0.0-r2: A cross-language development platform for in-memory data
 dev-libs/libsecp256k1 0.1_pre20190331: Optimized C library for EC operations on curve secp256k1
 dev-python/Kivy 2.1.0 9999: Open source UI framework written in Python
 dev-python/Kivy-Garden 0.1.5 9999: Kivy garden installation script
@@ -24,7 +24,7 @@ dev-python/kivymd 1.1.1 9999: Collection of Material Design-compliant widgets fo
 dev-python/maxminddb 1.5.1 9999: Python MaxMind DB reader extension
 dev-python/mpremote 0.4.0: MicroPython remote control
 dev-python/py-dbar 0.2.8: Pythonic D-bar Algorithm for EIT
-dev-python/pyarrow 9.0.0: Python library for Apache Arrow
+dev-python/pyarrow 9.0.0-r1: Python library for Apache Arrow
 dev-python/pydeck 0.7.1: Large-scale interactive data visualization
 dev-python/pyeit 9999: Python-based toolkit for Electrical Impedance Tomography
 dev-python/pyelliptic 1.5.6 9999: Deprecated Python OpenSSL wrapper
@@ -41,7 +41,6 @@ dev-python/streamlit 1.14.1 9999: Build and share machine learning and data scie
 dev-python/svgpathtools 1.4.1 9999: Tools for manipulating and analyzing SVG Path objects and Bezier curves
 dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 test environments
 dev-python/tuna 0.5.11 9999: In-browser Python profile viewer
-dev-python/yamale 1.7.0 9999: Python YAML schema validator
 dev-util/android-ndk 24: Open Handset Alliance's Android NDK (Native Dev Kit)
 dev-util/ctags 99999999: Universal Ctags: a maintained ctags implementation
 dev-vcs/git-remote-dropbox 1.1.1 9999: Transparent bridge between Git and Dropbox

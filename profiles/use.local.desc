@@ -42,7 +42,6 @@ dev-python/pyeit:3d - Enable 3D mesh visualization
 dev-python/pyeit:thorax - Enable thoracic mesh building and reconstruction
 dev-python/pympler:charts - Generate charts from "pympler.charts"
 dev-python/rshell:rsync - Enable "rshell rsync" subcommand (recommended)
-dev-python/yamale:ruamel - Enable "ruamel.yaml"-based YAML 1.2 support
 dev-util/ctags:json - Support JSON parsing
 dev-util/ctags:seccomp - Support security-enhanced sandbox submode
 dev-util/ctags:xml - Support XML parsing
