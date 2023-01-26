@@ -14,4 +14,4 @@ REQUIRED_USE=|| ( ncurses sdl ) pch? ( ^^ ( ncurses sdl ) ) sound? ( sdl )
 SLOT=0
 SRC_URI=https://github.com/CleverRaven/Cataclysm-DDA/archive/0.F.tar.gz -> cataclysm-dda-0.9f.tar.gz
 _eclasses_=xdg-utils	ac0e315a3688929e34ac75b139e7349a
-_md5_=4d8840d822e4c24ffebe647eb12f8f10
+_md5_=4baa38b8a4344b36440edcafbe9452cc
