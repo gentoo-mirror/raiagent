@@ -1,6 +1,6 @@
 acct-group/zeronet 0: Group for the zeronet daemon
 acct-user/zeronet 0: User for the zeronet daemon
-app-misc/mangal 4.0.4 9999: The most advanced (yet simple) CLI manga downloader
+app-misc/mangal 4.0.6 9999: The most advanced (yet simple) CLI manga downloader
 app-misc/powerline 2.7 9999-r21: Python-based statusline/prompt utility
 app-vim/powerline-vim 2.7 9999-r1: Vim plugin for Python-based Powerline
 dev-cpp/xsimd 9.0.1: C++ wrappers for SIMD intrinsics and math implementations
