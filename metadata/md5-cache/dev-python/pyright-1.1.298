@@ -8,6 +8,6 @@ KEYWORDS=~amd64 ~arm ~arm64 ~x86
 LICENSE=MIT
 RDEPEND=net-libs/nodejs
 SLOT=0
-SRC_URI=http://registry.npmjs.org/pyright/-/pyright-1.1.283.tgz
+SRC_URI=http://registry.npmjs.org/pyright/-/pyright-1.1.298.tgz
 _eclasses_=nodejs-r1	156ba9f77a04801f479463487b85e969
 _md5_=5647f28e981f2e3fbc691bbfa509e7e3
