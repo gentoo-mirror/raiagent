@@ -10,5 +10,5 @@ LICENSE=3270? ( || ( BSD CC-BY-SA-3.0 ) ) anonymouspro? ( OFL-1.1 ) arimo? ( Apa
 PROPERTIES=live
 REQUIRED_USE=|| ( 3270 anonymouspro arimo cousine dejavusansmono droidsansmono droidsansmonodotted droidsansmonoslashed firamono gomono hack inconsolata inconsolatadz inconsolata-g liberationmono meslodotted mesloslashed monofur notomono novamono profont robotomono sourcecodepro spacemono symbolneu terminus_pcf tinos ubuntumono )
 SLOT=0
-_eclasses_=font	5e03cb70902daa9ff8967c61130f0f60	git-r3	2347f8fe2d392b2a091191f94be37e6f
+_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb	git-r3	c57c50c922e121043788de0b40ada60a
 _md5_=193692fd6292bee963400007b8f802a8
