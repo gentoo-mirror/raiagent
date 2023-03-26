@@ -9,5 +9,5 @@ KEYWORDS=~amd64 ~arm ~ppc ~ppc64 ~x86
 LICENSE=MIT
 PROPERTIES=live
 SLOT=0
-_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb	git-r3	c57c50c922e121043788de0b40ada60a
+_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb	git-r3	27e13c09a4c7e4c78ac812f74727e676
 _md5_=acbbae9b8e9ec5c396d4ce543d22249a
