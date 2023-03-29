@@ -24,6 +24,8 @@ dev-python/instant-rst 0.9.9.1 9999: Lightweight web server for previewing reStr
 dev-python/kivymd 1.1.1 9999: Collection of Material Design-compliant widgets for use with Kivy
 dev-python/maxminddb 1.5.1 9999: Python MaxMind DB reader extension
 dev-python/mpremote 0.4.0: MicroPython remote control
+dev-python/multimethod 1.9.1 9999: Multiple argument dispatching in Python
+dev-python/pandera 0.14.5 9999: 
 dev-python/py-dbar 0.2.8: Pythonic D-bar Algorithm for EIT
 dev-python/pyarrow 9.0.0-r1: Python library for Apache Arrow
 dev-python/pydeck 0.7.1: Large-scale interactive data visualization
@@ -42,6 +44,7 @@ dev-python/streamlit 1.14.1 9999: Build and share machine learning and data scie
 dev-python/svgpathtools 1.5.1 9999: Tools for manipulating and analyzing SVG Path objects and Bezier curves
 dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 test environments
 dev-python/tuna 0.5.11 9999: In-browser Python profile viewer
+dev-python/typing-inspect 0.8.0 9999: Runtime inspection utilities for typing module
 dev-util/android-ndk 24: Open Handset Alliance's Android NDK (Native Dev Kit)
 dev-util/ctags 99999999: Universal Ctags: a maintained ctags implementation
 dev-vcs/git-remote-dropbox 1.1.1 9999: Transparent bridge between Git and Dropbox
