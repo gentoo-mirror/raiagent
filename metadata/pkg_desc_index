@@ -19,9 +19,7 @@ dev-python/dropbox-sdk 9.4.0 9999: Python SDK for Dropbox API v2
 dev-python/fastecdsa 1.7.4 9999: Python library for fast elliptic curve crypto
 dev-python/fastrlock 0.6: Fast RLock implementation for CPython
 dev-python/flask-socketio 4.2.1 9999: Socket.IO integration for Flask applications
-dev-python/instant-rst 0.9.9.1 9999: Lightweight web server for previewing reStructuredText documents
 dev-python/kivymd 1.1.1 9999: Collection of Material Design-compliant widgets for use with Kivy
-dev-python/maxminddb 1.5.1 9999: Python MaxMind DB reader extension
 dev-python/mpremote 0.4.0: MicroPython remote control
 dev-python/multimethod 1.9.1 9999: Multiple argument dispatching in Python
 dev-python/pandera 0.14.5 9999: 
@@ -29,16 +27,11 @@ dev-python/py-dbar 0.2.8: Pythonic D-bar Algorithm for EIT
 dev-python/pyarrow 9.0.0-r1: Python library for Apache Arrow
 dev-python/pydeck 0.7.1: Large-scale interactive data visualization
 dev-python/pyeit 9999: Python-based toolkit for Electrical Impedance Tomography
-dev-python/pyelliptic 1.5.6 9999: Deprecated Python OpenSSL wrapper
 dev-python/pympler 1.0.1 9999: Measure, monitor and analyze the memory behavior of Python objects
-dev-python/pymsgbox 1.0.9: Cross-platform, pure-Python, JavaScript-like message boxes
 dev-python/pyright 1.1.298: Static type checker for Python
-dev-python/python-bitcoinlib 0.10.2 9999: Easy interface to the Bitcoin data structures and protocol
 dev-python/python-engineio 3.11.2 9999: Python Engine.IO server and client
 dev-python/python-for-android 2022.3.13 9999: Kivy-friendly tool for packaging Python to Android
 dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
-dev-python/rshell 0.0.31 9999: Remote Shell for MicroPython
-dev-python/sparse_dot_mkl 0.7.1: Python wrapper for Intel Math Kernel Library (MKL) matrix multiplication
 dev-python/streamlit 1.14.1 9999: Build and share machine learning and data science web apps
 dev-python/svgpathtools 1.5.1 9999: Tools for manipulating and analyzing SVG Path objects and Bezier curves
 dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 test environments
