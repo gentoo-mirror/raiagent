@@ -8,7 +8,6 @@ dev-libs/apache-arrow 9.0.0-r2: A cross-language development platform for in-mem
 dev-libs/libsecp256k1 0.1_pre20190331: Optimized C library for EC operations on curve secp256k1
 dev-python/Kivy 2.1.0 9999: Open source UI framework written in Python
 dev-python/Kivy-Garden 0.1.5 9999: Kivy garden installation script
-dev-python/accessible-pygments 0.0.3 9999: Accessible pygments themes
 dev-python/altair 4.2.0 9999: Declarative statistical visualization library
 dev-python/base58 2.1.1 9999: Base58 and Base58Check implementation
 dev-python/beartype 0.13.1 9999: Unbearably fast O(1) runtime type checking in pure Python
@@ -34,6 +33,7 @@ dev-python/pyright 1.1.310: Static type checker for Python
 dev-python/python-engineio 3.11.2 9999: Python Engine.IO server and client
 dev-python/python-for-android 2023.05.21 9999: Kivy-friendly tool for packaging Python to Android
 dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
+dev-python/sphinx-book-theme 1.0.1: A clean book theme for scientific documentation with Sphinx
 dev-python/streamlit 1.14.1 9999: Build and share machine learning and data science web apps
 dev-python/svgpathtools 1.5.1 9999: Tools for manipulating and analyzing SVG Path objects and Bezier curves
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
