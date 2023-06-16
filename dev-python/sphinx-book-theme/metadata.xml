@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
 	<maintainer type="person">
 		<email>leycec@gmail.com</email>
@@ -8,7 +8,7 @@
 	</maintainer>
 	<stabilize-allarches/>
 	<upstream>
-		<remote-id type="github">Quansight-Labs/accessible-pygments</remote-id>
-		<remote-id type="pypi">accessible-pygments</remote-id>
+		<remote-id type="github">executablebooks/sphinx-book-theme</remote-id>
+		<remote-id type="pypi">sphinx-book-theme</remote-id>
 	</upstream>
 </pkgmetadata>
