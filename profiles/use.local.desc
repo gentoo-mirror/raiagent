@@ -19,12 +19,6 @@ app-misc/powerline:tmux - Install tmux support files
 app-misc/powerline:vim - Install vim support files
 app-misc/powerline:zsh - Install zsh support files
 dev-libs/apache-arrow:parquet - Build with Parquet data format support
-dev-libs/libsecp256k1:asm - Enable x86_64 assembly optimisation
-dev-libs/libsecp256k1:ecdh - Enable ECDH shared secret computation
-dev-libs/libsecp256k1:endomorphism - Enable endomorphism
-dev-libs/libsecp256k1:experimental - Allow experimental USE flags
-dev-libs/libsecp256k1:recovery - Enable ECDSA pubkey recovery module
-dev-libs/libsecp256k1:test_openssl - Enable OpenSSL comparison tests
 dev-python/Kivy:buildozer - Cross-compile Kivy apps via dev-python/buildozer (recommended)
 dev-python/Kivy:cython - Enable Kivy C extensions via dev-python/cython (recommended)
 dev-python/Kivy:examples - Build and install example Kivy apps
