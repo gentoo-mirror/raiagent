@@ -29,7 +29,7 @@ dev-python/pyarrow 9.0.0-r1: Python library for Apache Arrow
 dev-python/pydeck 0.7.1: Large-scale interactive data visualization
 dev-python/pyeit 9999: Python-based toolkit for Electrical Impedance Tomography
 dev-python/pympler 1.0.1 9999: Measure, monitor and analyze the memory behavior of Python objects
-dev-python/pyright 1.1.318: Static type checker for Python
+dev-python/pyright 1.1.326: Static type checker for Python
 dev-python/python-engineio 3.11.2 9999: Python Engine.IO server and client
 dev-python/python-for-android 2023.05.21 9999: Kivy-friendly tool for packaging Python to Android
 dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
