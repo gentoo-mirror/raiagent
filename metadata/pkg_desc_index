@@ -1,7 +1,6 @@
 acct-group/zeronet 0: Group for the zeronet daemon
 acct-user/zeronet 0: User for the zeronet daemon
 app-misc/mangal 4.0.6 9999: The most advanced (yet simple) CLI manga downloader
-app-vim/powerline-vim 2.7 9999-r1: Vim plugin for Python-based Powerline
 dev-cpp/xsimd 9.0.1: C++ wrappers for SIMD intrinsics and math implementations
 dev-libs/apache-arrow 9.0.0-r2: A cross-language development platform for in-memory data
 dev-python/Kivy 2.1.0 9999: Open source UI framework written in Python
@@ -51,7 +50,5 @@ games-roguelike/tsl 0.40-r2: The Slimy Lichmummy, an adventure game similar in s
 games-roguelike/unreal-world 3.62: Fantasy roguelike set in the far north during the late Iron-Age
 games-util/antimicrox 3.2.2 9999: GUI used to map keyboard buttons and mouse controls to a gamepad
 games-util/ips-pl 0.01-r1: Perl script which is designed to apply an IPS patch to a ROM
-media-fonts/powerline-fonts 9999-r2: Monospaced fonts pre-patched with Powerline symbols
-media-fonts/powerline-symbols 9999: OpenType Unicode font containing only Powerline-specific symbols.
 media-sound/vgmplay 9999-r1: Video game music (VGM) file command-line player
 sci-biology/betse 1.3.0 9999-r1: Bioelectric Tissue Simulation Engine (BETSE)
