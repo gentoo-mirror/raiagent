@@ -1,4 +1,4 @@
-BDEPEND=net-libs/nodejs[npm]
+BDEPEND=net-libs/nodejs
 DEFINED_PHASES=install unpack
 DESCRIPTION=Static type checker for Python
 EAPI=8
@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=net-libs/nodejs
 SLOT=0
 SRC_URI=http://registry.npmjs.org/pyright/-/pyright-1.1.326.tgz
-_eclasses_=nodejs-r1	156ba9f77a04801f479463487b85e969
+_eclasses_=nodejs-r1	b2478839d7fbc7515557fefde5e2bb37
 _md5_=16c10e997d43c9cb03b0b8d0d14ec56a
