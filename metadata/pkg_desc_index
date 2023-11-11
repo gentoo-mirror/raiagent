@@ -21,6 +21,7 @@ dev-python/kivymd 1.1.1 9999: Collection of Material Design-compliant widgets fo
 dev-python/machineid 9999: Get the unique machine ID of any host (without admin privileges)
 dev-python/mpremote 0.4.0: MicroPython remote control
 dev-python/multimethod 1.9.1 9999: Multiple argument dispatching in Python
+dev-python/nptyping 2.5.0 9999: Type hints for Numpy and Pandas
 dev-python/pandera 0.14.5 9999: 
 dev-python/pep517 0.13.0: Wrappers to build Python packages using PEP 517 hooks
 dev-python/py-dbar 0.2.8: Pythonic D-bar Algorithm for EIT
