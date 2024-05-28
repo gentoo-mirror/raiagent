@@ -34,15 +34,11 @@ REQUIRED_USE="
 	pch? ( ^^ ( ncurses sdl ) )
 	sound? ( sdl )
 "
-
-# Note that, while GCC also supports LTO via the gold linker, Portage appears
-# to provide no way of validating the current "gcc" to link with gold. *shrug*
 IDEPEND="dev-util/desktop-file-utils"
 BDEPEND="
 	clang? (
 		sys-devel/clang
 		debug? ( sys-devel/clang-runtime[sanitize] )
-		lto?   ( sys-devel/llvm[gold] )
 	)
 	!clang? (
 		sys-devel/gcc[cxx]
@@ -98,6 +94,14 @@ else
 	KEYWORDS="~amd64 ~x86"
 
 	S="${WORKDIR}/Cataclysm-DDA-${MY_PV}"
+
+	# Fixed upstream for next release, but GCC13 still breaks in this one.
+	# cf. https://github.com/CleverRaven/Cataclysm-DDA/pull/66195
+	if [[ ${PV} == "0.9g" ]]; then
+		PATCHES=(
+			"${FILESDIR}/${PN}-0.9g-gcc13-compat.patch"
+		)
+	fi
 fi
 
 src_prepare() {
@@ -258,7 +262,10 @@ src_compile() {
 	use clang && CATACLYSM_EMAKE_NCURSES+=( CLANG=1 )
 
 	# If enabling link time optimization, do so.
-	use lto && CATACLYSM_EMAKE_NCURSES+=( LTO=1 )
+	# Use of the Gold linker is optional, but offers no improvement with LTO
+	# over BFD and is in bitrot; here we disable Makefile's preference for it.
+	# Alternate linkers can/should be controlled via /etc/portage/package.env.
+	use lto && CATACLYSM_EMAKE_NCURSES+=( LTO=1 GOLD=0 )
 
 	# If enabling debugging-specific facilities, do so. Specifically,
 	# * "RELEASE=0", disabling release-specific optimizations.
