@@ -1,4 +1,4 @@
-BDEPEND=clang? ( sys-devel/clang debug? ( sys-devel/clang-runtime[sanitize] ) lto? ( sys-devel/llvm[gold] ) ) !clang? ( sys-devel/gcc[cxx] debug? ( sys-devel/gcc[sanitize] ) )
+BDEPEND=clang? ( sys-devel/clang debug? ( sys-devel/clang-runtime[sanitize] ) ) !clang? ( sys-devel/gcc[cxx] debug? ( sys-devel/gcc[sanitize] ) )
 DEFINED_PHASES=compile install postinst postrm prepare test
 DEPEND=app-arch/bzip2 sys-libs/glibc sys-libs/zlib virtual/libc astyle? ( dev-util/astyle ) ncurses? ( >=sys-libs/ncurses-6.0:0 ) nls? ( sys-devel/gettext:0[nls] ) sdl? ( media-libs/freetype:2 media-libs/libsdl2:0 media-libs/sdl2-image:0[jpeg,png] media-libs/sdl2-ttf:0 ) sound? ( media-libs/sdl2-mixer:0 )
 DESCRIPTION=Roguelike set in a post-apocalyptic world
@@ -14,4 +14,4 @@ REQUIRED_USE=|| ( ncurses sdl ) pch? ( ^^ ( ncurses sdl ) ) sound? ( sdl )
 SLOT=0
 SRC_URI=https://github.com/CleverRaven/Cataclysm-DDA/archive/0.G.tar.gz -> cataclysm-dda-0.9g.tar.gz
 _eclasses_=xdg-utils	baea6080dd821f5562d715887954c9d3
-_md5_=6bd5001747dc466aa8f276df4115d185
+_md5_=482e5e3fc4ebc9990500ac284830ae39
