@@ -41,7 +41,6 @@ dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 tes
 dev-python/tuna 0.5.11 9999: In-browser Python profile viewer
 dev-python/typing-inspect 0.8.0 9999: Runtime inspection utilities for typing module
 dev-util/android-ndk 24: Open Handset Alliance's Android NDK (Native Dev Kit)
-dev-util/ctags 99999999: Universal Ctags: a maintained ctags implementation
 dev-vcs/git-remote-dropbox 1.1.1 9999: Transparent bridge between Git and Dropbox
 games-engines/frotz 2.50_beta2: Interpreter for Z-code based text games
 games-engines/gargoyle 2019.1: An Interactive Fiction (IF) player supporting all major formats
