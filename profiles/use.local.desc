@@ -19,10 +19,6 @@ dev-python/pyarrow:parquet - Build with Parquet data format support
 dev-python/pyeit:3d - Enable 3D mesh visualization
 dev-python/pyeit:thorax - Enable thoracic mesh building and reconstruction
 dev-python/pympler:charts - Generate charts from "pympler.charts"
-dev-util/ctags:json - Support JSON parsing
-dev-util/ctags:seccomp - Support security-enhanced sandbox submode
-dev-util/ctags:xml - Support XML parsing
-dev-util/ctags:yaml - Support YAML parsing
 games-engines/seventhsense:data - Install all data for Lone Wolf books 1-18 (recommended)
 games-engines/seventhsense:editor - Enable book editor (e.g., to modify existing books, create new books)
 games-roguelike/cataclysm-dda:astyle - Check for astyle-specific lint regressions
