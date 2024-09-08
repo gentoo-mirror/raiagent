@@ -8,5 +8,5 @@ LICENSE=UNREAL-WORLD
 RDEPEND=acct-group/gamestat media-libs/libsdl2 media-libs/sdl2-image[jpeg,png] media-libs/sdl2-mixer[vorbis,wav] media-libs/sdl2-net sys-devel/gcc[cxx]
 SLOT=0
 SRC_URI=amd64? ( http://www.unrealworld.fi/dl/3.62/linux/deb-ubuntu/urw-3.62-x86_64-linux-gnu.tar.gz ) x86? ( http://www.unrealworld.fi/dl/3.62/linux/deb-ubuntu/urw-3.62-i686-linux-gnu.tar.gz )
-_eclasses_=readme.gentoo-r1	b8c7a61664027641d79dcfc04bd366f4
+_eclasses_=readme.gentoo-r1	32b48460d813533d85f082897cec1b80
 _md5_=aaf818e8888fcd9517590684dc4fe32c
