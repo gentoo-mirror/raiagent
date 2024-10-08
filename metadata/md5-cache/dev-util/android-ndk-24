@@ -10,5 +10,5 @@ RDEPEND=sys-libs/ncurses-compat:5[tinfo] virtual/libcrypt >=dev-util/android-sdk
 RESTRICT=mirror strip installsources test
 SLOT=0
 SRC_URI=https://dl.google.com/android/repository/android-ndk-r24-linux.zip
-_eclasses_=check-reqs	f5db0b1ec36d0899adc2b41f8c447823
+_eclasses_=check-reqs	2a9731073c152554078a9a8df8fc0f1b
 _md5_=f83fa5ac2ea3d214cc97172364dac23b
