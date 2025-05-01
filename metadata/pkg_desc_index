@@ -11,37 +11,24 @@ dev-python/beartype 0.13.1 9999: Unbearably fast O(1) runtime type checking in p
 dev-python/bleak 0.19.5 9999: Bluetooth Low Energy platform Agnostic Klient (BLEAK) for Python
 dev-python/buildozer 1.3.0 9999: Kivy-friendly tool for packaging Python to mobile and desktop
 dev-python/dbus-fast 1.84.0 9999: Faster version of dbus-next
-dev-python/dropbox-sdk 9.4.0 9999: Python SDK for Dropbox API v2
 dev-python/fastapi 0.100.0 9999: FastAPI framework, high performance, easy to learn, fast to code
-dev-python/fastecdsa 1.7.4 9999: Python library for fast elliptic curve crypto
-dev-python/fastrlock 0.6: Fast RLock implementation for CPython
-dev-python/flask-socketio 4.2.1 9999: Socket.IO integration for Flask applications
 dev-python/hatch 1.7.0 9999: Modern, extensible Python project management
 dev-python/kivymd 1.1.1 9999: Collection of Material Design-compliant widgets for use with Kivy
 dev-python/machineid 9999: Get the unique machine ID of any host (without admin privileges)
-dev-python/mpremote 0.4.0: MicroPython remote control
 dev-python/multimethod 1.9.1 9999: Multiple argument dispatching in Python
 dev-python/nptyping 2.5.0 9999: Type hints for Numpy and Pandas
 dev-python/pandera 0.20.0 9999: 
 dev-python/pep517 0.13.0: Wrappers to build Python packages using PEP 517 hooks
-dev-python/py-dbar 0.2.8: Pythonic D-bar Algorithm for EIT
-dev-python/pyarrow 9.0.0-r1: Python library for Apache Arrow
 dev-python/pydeck 0.7.1: Large-scale interactive data visualization
-dev-python/pyeit 9999: Python-based toolkit for Electrical Impedance Tomography
 dev-python/pympler 1.0.1 9999: Measure, monitor and analyze the memory behavior of Python objects
 dev-python/pyright 1.1.385: Static type checker for Python
-dev-python/python-engineio 3.11.2 9999: Python Engine.IO server and client
 dev-python/python-for-android 2023.05.21 9999: Kivy-friendly tool for packaging Python to Android
-dev-python/python-socketio 4.4.0 9999: Python Socket.IO server and client
 dev-python/sphinx-book-theme 1.0.1: A clean book theme for scientific documentation with Sphinx
 dev-python/streamlit 1.14.1 9999: Build and share machine learning and data science web apps
 dev-python/svgpathtools 1.6.1 9999: Tools for manipulating and analyzing SVG Path objects and Bezier curves
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
-dev-python/tox-venv 0.4.0 9999: Tox plugin using Python 3 venvs for Python 3 test environments
-dev-python/tuna 0.5.11 9999: In-browser Python profile viewer
 dev-python/typing-inspect 0.8.0 9999: Runtime inspection utilities for typing module
 dev-util/android-ndk 24: Open Handset Alliance's Android NDK (Native Dev Kit)
-dev-vcs/git-remote-dropbox 1.1.1 9999: Transparent bridge between Git and Dropbox
 games-engines/frotz 2.50_beta2: Interpreter for Z-code based text games
 games-engines/gargoyle 2019.1: An Interactive Fiction (IF) player supporting all major formats
 games-engines/seventhsense 1.17.0: Playing aid for Project Aon editions of Lone Wolf adventure books

@@ -1,16 +1,16 @@
 BDEPEND=app-alternatives/ninja >=dev-build/cmake-3.20.5
 DEFINED_PHASES=compile configure install prepare setup test
-DEPEND=dev-java/brotli-dec lz4? ( app-arch/lz4:= ) bzip2? ( app-arch/bzip2 ) parquet? ( dev-libs/libutf8proc:= dev-libs/re2:= dev-libs/thrift ) python? ( python_single_target_python3_10? ( dev-lang/python:3.10 ) python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_10? ( dev-python/numpy[python_targets_python3_10(-)] ) python_single_target_python3_11? ( dev-python/numpy[python_targets_python3_11(-)] ) ) zlib? ( sys-libs/zlib ) zstd? ( app-arch/zstd:= ) dev-libs/rapidjson net-libs/grpc >=dev-cpp/xsimd-8.1
+DEPEND=dev-java/brotli-dec lz4? ( app-arch/lz4:= ) bzip2? ( app-arch/bzip2 ) parquet? ( dev-libs/libutf8proc:= dev-libs/re2:= dev-libs/thrift ) python? ( python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_11? ( dev-python/numpy[python_targets_python3_11(-)] ) ) zlib? ( sys-libs/zlib ) zstd? ( app-arch/zstd:= ) dev-libs/rapidjson net-libs/grpc >=dev-cpp/xsimd-8.1
 DESCRIPTION=A cross-language development platform for in-memory data
 EAPI=8
 HOMEPAGE=https://arrow.apache.org/
 INHERIT=cmake python-single-r1
-IUSE=+bzip2 +lz4 +parquet +python +zlib +zstd python_single_target_python3_10 python_single_target_python3_11
+IUSE=+bzip2 +lz4 +parquet +python +zlib +zstd +python_single_target_python3_11
 KEYWORDS=~amd64 ~arm ~arm64 ~x86
 LICENSE=Apache-2.0
-RDEPEND=dev-java/brotli-dec lz4? ( app-arch/lz4:= ) bzip2? ( app-arch/bzip2 ) parquet? ( dev-libs/libutf8proc:= dev-libs/re2:= dev-libs/thrift ) python? ( python_single_target_python3_10? ( dev-lang/python:3.10 ) python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_10? ( dev-python/numpy[python_targets_python3_10(-)] ) python_single_target_python3_11? ( dev-python/numpy[python_targets_python3_11(-)] ) ) zlib? ( sys-libs/zlib ) zstd? ( app-arch/zstd:= )
-REQUIRED_USE=python? ( ^^ ( python_single_target_python3_10 python_single_target_python3_11 ) )
+RDEPEND=dev-java/brotli-dec lz4? ( app-arch/lz4:= ) bzip2? ( app-arch/bzip2 ) parquet? ( dev-libs/libutf8proc:= dev-libs/re2:= dev-libs/thrift ) python? ( python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_11? ( dev-python/numpy[python_targets_python3_11(-)] ) ) zlib? ( sys-libs/zlib ) zstd? ( app-arch/zstd:= )
+REQUIRED_USE=python? ( ^^ ( python_single_target_python3_11 ) )
 SLOT=0
 SRC_URI=https://www.apache.org/dyn/closer.lua?action=download&filename=arrow/arrow-9.0.0/apache-arrow-9.0.0.tar.gz
-_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	e8de74bac929ba17427e740e95707d00	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	b05c1b7b3c9213c155f128f4eadaa49f	python-utils-r1	974462533ec80cd68e5f366ad8a86002	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57
+_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	e8de74bac929ba17427e740e95707d00	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	b05c1b7b3c9213c155f128f4eadaa49f	python-utils-r1	b6ad054ea5bb201ed2fec9cac7a8d12b	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57
 _md5_=8f349356e20afb4de14d6819f9e0c7e5
